@@ -1,0 +1,35 @@
+{
+    "match": "flagstaff",
+      "limit": 0,
+      "found": 3,
+      "places": [
+          {
+              "altitude": "2139",
+              "latitude": "35.20830154418945",
+              "name": "Flagstaff Medical Center East No. 2 Heliport",
+              "municipality": "Flagstaff",
+              "id": "3AZ0",
+              "type": "heliport",
+              "longitude": "-111.64299774169922"
+          },
+          {
+              "altitude": "2083",
+              "latitude": "35.22359848022461",
+              "name": "Flagstaff Mall Heliport",
+              "municipality": "Flagstaff",
+              "id": "AZ23",
+              "type": "heliport",
+              "longitude": "-111.58300018310547"
+          },
+          {
+              "altitude": "2137",
+              "latitude": "35.13850021",
+              "name": "Flagstaff Pulliam Airport",
+              "municipality": "Flagstaff",
+              "id": "KFLG",
+              "type": "medium_airport",
+              "longitude": "-111.6709976"
+          }
+      ],
+      "requestType": "find"
+  }

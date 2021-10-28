@@ -1,0 +1,26 @@
+{
+    "requestType": "distances",
+    "places": [
+        {
+            "name": "Ella North Airport",
+            "latitude": "31.92180801",
+            "longitude": "48.87751713"
+        },
+        {
+            "name": "Rancho Sumidor Airport",
+            "latitude": "-27.191944122314453",
+            "longitude": "-49.831390380859375"
+        },
+        {
+            "name": "Daniel Airport",
+            "latitude": "30.353200912475586",
+            "longitude": "-91.28209686279297"
+        }
+    ],
+    "earthRadius": 6378.0,
+    "distances": [
+        12340,
+        7776,
+        11930
+    ]
+}

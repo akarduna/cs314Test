@@ -1,0 +1,52 @@
+{
+    "match": "butter",
+    "limit": 0,
+    "found": 4,
+    "places": [
+        {
+            "altitude": "500",
+            "country": "US",
+            "latitude": "40.39820098876953",
+            "name": "Butter Valley Golf Port Airport",
+            "municipality": "Bally",
+            "id": "7N8",
+            "type": "small_airport",
+            "region": "US-PA",
+            "longitude": "-75.56430053710938"
+        },
+        {
+            "altitude": "510",
+            "country": "US",
+            "latitude": "43.84339904785156",
+            "name": "Butterville Airport",
+            "municipality": "Adams",
+            "id": "7NY2",
+            "type": "small_airport",
+            "region": "US-NY",
+            "longitude": "-76.0947036743164"
+        },
+        {
+            "altitude": "11",
+            "country": "MY",
+            "latitude": "5.4659199714660645",
+            "name": "Butterworth Airport",
+            "municipality": "Butterworth",
+            "id": "WMKB",
+            "type": "medium_airport",
+            "region": "MY-07",
+            "longitude": "100.39099884033203"
+        },
+        {
+            "altitude": "746",
+            "country": "US",
+            "latitude": "42.969132",
+            "name": "Butterworth Hospital Heliport",
+            "municipality": "Grand Rapids",
+            "id": "MI97",
+            "type": "heliport",
+            "region": "US-MI",
+            "longitude": "-85.665127"
+        }
+    ],
+    "requestType": "find"
+}

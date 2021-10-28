@@ -1,0 +1,32 @@
+{
+    "places": [
+        {
+            "latitude": "-90",
+            "name": "place1",
+            "longitude": "0"
+        },
+        {
+            "latitude": "90",
+            "name": "place2",
+            "longitude": "0"
+        },
+        {
+            "latitude": "0",
+            "name": "place3",
+            "longitude": "-180"
+        },
+        {
+            "latitude": "0",
+            "name": "place4",
+            "longitude": "180"
+        }
+    ],
+    "earthRadius": 1.0E8,
+    "distances": [
+        314159265,
+        157079633,
+        0,
+        157079633
+    ],
+    "requestType": "distances"
+}

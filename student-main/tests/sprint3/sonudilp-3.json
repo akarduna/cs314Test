@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "40.19",
+            "name": "Denver Artcc Heliport",
+            "longitude": "-105.13"
+        },
+        {
+            "latitude": "40.59",
+            "name": "Fort Collins Downtown Airport",
+            "longitude": "-105.04"
+        },
+        {
+            "latitude": "33.03",
+            "name": "Boon/Lovelace Airport",
+            "longitude": "-94.38"
+        }
+    ],
+    "earthRadius": 3958.8,
+    "distances": [
+        28,
+        787,
+        774
+    ],
+    "requestType": "distances"
+}

@@ -1,0 +1,21 @@
+{
+  "requestType": "find",
+  "match": "Colorado Spring",
+  "limit": 0,
+  "found": 2,
+  "places": [
+        {
+            "name": "Colorado Springs East Airport",
+            "latitude": "38.87440109",
+            "longitude": "-104.41000366"
+        },
+        {
+            "name": "City of Colorado Springs Municipal Airport",
+            "latitude": "38.80580139",
+            "longitude": "-104.70099639"
+        }
+    ]
+}
+
+
+

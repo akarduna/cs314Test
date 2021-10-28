@@ -1,0 +1,18 @@
+{
+    "match": "Heathrow",
+    "limit": 0,
+    "places": [
+                {
+                    "name": "London Heathrow Airport", 
+                    "latitude": "51.4706", 
+                    "longitude": "-0.461941"
+                },
+                {
+                    "name": "Heathrow Airport", 
+                    "latitude": "31.43910026550293", 
+                    "longitude": "-97.14689636230469"
+                }
+    ],
+    "found": 2,
+    "requestType": "find"
+}

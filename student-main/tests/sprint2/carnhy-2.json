@@ -1,0 +1,48 @@
+{
+    "match": "boise",
+    "limit": 0,
+    "found": 8,
+    "places": [
+        {
+            "latitude": "36.77429962158203",
+            "name": "Boise City Airport",
+            "longitude": "-102.51000213623047"
+        },
+        {
+            "latitude": "43.56439972",
+            "name": "Boise Air Terminal/Gowen field",
+            "longitude": "-116.2229996"
+        },
+        {
+            "latitude": "43.590999603271484",
+            "name": "Nampa Valley Heliport",
+            "longitude": "-116.2770004272461"
+        },
+        {
+            "latitude": "43.612701416",
+            "name": "St Luke's Boise Medical Center Heliport",
+            "longitude": "-116.192001343"
+        },
+        {
+            "latitude": "43.61429977416992",
+            "name": "St Alphonsus Heliport",
+            "longitude": "-116.26399993896484"
+        },
+        {
+            "latitude": "43.653198242200006",
+            "name": "Boise Plaza Heliport",
+            "longitude": "-116.206001282"
+        },
+        {
+            "latitude": "43.680999755859375",
+            "name": "Peaceful Cove Airport",
+            "longitude": "-116.2030029296875"
+        },
+        {
+            "latitude": "47.3414",
+            "name": "Amboise Dierre Airport",
+            "longitude": "0.9425"
+        }
+    ],
+    "requestType": "find"
+}

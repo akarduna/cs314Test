@@ -1,0 +1,25 @@
+{
+  "match": "Denver",
+  "limit": 0,
+  "type": ["heliport"],
+  "where": ["Denver"],
+  "found": 3,
+  "places": [
+    {
+      "latitude": "39.6875",
+      "name": "Denver Police Department-District 3 Heliport",
+      "longitude": "104.95999908447266"
+    },
+    {
+      "latitude": "39.72330093383789",
+      "name": "Denver Federal Center Helistop",
+      "longitude": "-105.11100006103516"
+    },
+     {
+      "latitude": "39.727500915527344",
+      "name": "Denver Health Heliport",
+      "longitude": "-104.99099731445312"
+    },
+    ],
+    "requestType": "find"
+}

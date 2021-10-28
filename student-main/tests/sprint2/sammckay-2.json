@@ -1,0 +1,42 @@
+{
+  "requestType": "find",
+  "match": "lucky",
+  "limit": 0,
+  "found": 7,
+  "places": [
+		{
+          "name": "Lucky Landing Marina and Seaplane Base",
+          "latitude": "44.907001495399996",
+          "longitude": "-68.8050003052"
+        },
+		{
+          "name": "Lucky G Airport",
+          "latitude": "33.85260009765625",
+          "longitude": "-98.64620208740234"
+        },
+    	{
+          "name": "Lucky Lairds Landing Airport",
+          "latitude": "33.640899658203125",
+          "longitude": "-84.90489959716797"
+        },
+		{
+          "name": "Lucky L Ranch Airport",
+          "latitude": "40.358299255371094",
+          "longitude": "-106.83000183105469"
+        },
+		{
+          "name": "Lucky Lake Airport",
+          "latitude": "50.99420166015625",
+          "longitude": "-107.13099670410156"
+        },
+		{
+          "name": "Lucky Star Ranch Airport",
+          "latitude": "30.2911944",
+          "longitude": "-96.5268611"
+        },
+		{"name": "Lucky Downs Airport",
+         "latitude": "-18.91670036315918",
+         "longitude": "145"
+        }
+    ]
+}

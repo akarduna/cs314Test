@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "43.0975",
+            "name": "London (Pioneer Airpark)",
+            "longitude": "-81.234301"
+        },
+        {
+            "latitude": "44.54999923706055",
+            "name": "New Germany Seaplane Base",
+            "longitude": "-64.75"
+        },
+        {
+            "latitude": "43.0975",
+            "name": "London (Pioneer Airpark)",
+            "longitude": "-81.234301"
+        },
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        87,
+        87,
+        0
+    ],
+    "requestType": "distances"
+}

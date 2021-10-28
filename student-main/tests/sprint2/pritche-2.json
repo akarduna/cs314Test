@@ -1,0 +1,18 @@
+{
+    "match": "young h",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "latitude": "43.71659851074219",
+            "name": "Young Heliport",
+            "longitude": "-116.38899993896484"
+        },
+        {
+            "latitude": "-34.32094",
+            "name": "Young Hospital Helipad",
+            "longitude": "148.28798"
+        }
+    ],
+    "requestType": "find"
+}

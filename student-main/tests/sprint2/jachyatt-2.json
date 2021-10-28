@@ -1,0 +1,13 @@
+{
+  "match": "fort gordon",
+  "limit": 0,
+  "found": 1,
+  "places": [
+     {
+       "latitude": "33.4203987121582",
+       "name": "Fort Gordon Hqs Helipad Heliport",
+       "longitude": "-82.13960266113281"
+     }
+    ],
+    "requestType": "find"
+}

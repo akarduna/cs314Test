@@ -1,0 +1,13 @@
+{
+    "match": "Lowell",
+    "limit": 10,
+    "found": 1,
+    "places": [
+        {
+            "name": "Lowell Field",
+            "latitude": "59.94919968",
+            "longitude": "-151.695999146",
+        }
+    ],
+    "requestType": "find"
+}

@@ -1,0 +1,52 @@
+{
+    "match": "Finger",
+    "limit": 0,
+    "found": 5,
+    "places": [
+        {
+            "altitude": "3461",
+            "iso_country": "NA",
+            "latitude": "-25.497217178344727",
+            "name": "Finger Gottes Airstrip",
+            "type": "small_airport",
+            "longitude": "18.172500610351562"
+        },
+        {
+            "altitude": "337",
+            "iso_country": "US",
+            "latitude": "61.60649871826172",
+            "name": "Finger Lake Seaplane Base",
+            "municipality": "Palmer",
+            "type": "seaplane_base",
+            "longitude": "-149.2779998779297"
+        },
+        {
+            "altitude": "492",
+            "iso_country": "US",
+            "latitude": "42.88359832763672",
+            "name": "Finger Lakes Regional Airport",
+            "municipality": "Seneca Falls",
+            "type": "small_airport",
+            "longitude": "-76.78109741210938"
+        },
+        {
+            "altitude": "48",
+            "iso_country": "US",
+            "latitude": "57.26990127559999",
+            "name": "Five Finger CG Heliport",
+            "municipality": "Five Finger",
+            "type": "heliport",
+            "longitude": "-133.630996704"
+        },
+        {
+            "altitude": "820",
+            "iso_country": "US",
+            "latitude": "38.37919998168945",
+            "name": "Gettlefinger Field",
+            "municipality": "Palmyra",
+            "type": "small_airport",
+            "longitude": "-86.08159637451172"
+        }
+    ],
+    "requestType": "find"
+}

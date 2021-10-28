@@ -1,0 +1,32 @@
+{
+    "places": [
+        {
+            "latitude": "40.58",
+            "name": "Fort Collins, Larimer County, Colorado, United States",
+            "longitude": "-105.103104"
+        },
+        {
+            "latitude": "39.701698303200004",
+            "name": "Buckley Air Force Base, South Uravan Street, Aurora, Arapahoe County, Colorado, 80017, United States",
+            "longitude": "-104.751998901"
+        },
+        {
+            "latitude": "32.65660095",
+            "name": "Yuma, Yuma County, Arizona, United States",
+            "longitude": "-114.6060028"
+        },
+        {
+            "latitude": "34.143902",
+            "name": "U. S. Marine Corps Air Station Iwakuni, 岩国錦帯橋空港線, 旭町二丁目, Iwakuni, Yamaguchi Prefecture, 740-8511, Japan",
+            "longitude": "132.235992"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        102,
+        1180,
+        9823,
+        9842
+    ],
+    "requestType": "distances"
+}

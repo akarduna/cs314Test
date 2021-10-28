@@ -1,0 +1,18 @@
+{
+    "match": "st. james",
+    "limit": 0,
+    "places": [
+        {
+            "name": "St. James Heliport",
+            "latitude": "46.0093994140625",
+            "longitude": "-112.54499816894531"
+        },
+        {
+            "name": "Fort St. James/Stuart River Seaplane Base",
+            "latitude": "54.419",
+            "longitude": "-124.271"
+        }
+    ],
+    "found": 2,
+    "requestType": "find"
+}

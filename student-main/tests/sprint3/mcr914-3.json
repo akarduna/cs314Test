@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "35.05070114135742",
+            "name": "Pink Hill Airport",
+            "longitude": "-77.73609924316406"
+        },
+        {
+            "latitude": "32.56520080566406",
+            "name": "Fort Worth Spinks Airport",
+            "longitude": "-97.30809783935547"
+        },
+        {
+            "latitude": "47.38668441772461",
+            "name": "Pinkafeld Airport",
+            "longitude": "16.112672805786133"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        1137.119,
+        5557.554,
+        4663.164
+    ],
+    "requestType": "distances"
+}

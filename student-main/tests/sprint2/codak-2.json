@@ -1,0 +1,13 @@
+{
+    "match": "palau",
+    "limit": 0,
+    "places": [
+        {
+            "name": "Pangkal Pinang (Depati Amir) Airport",
+            "latitude": "-2.16219997406",
+            "longitude": "106.138999939"
+        }
+    ],
+    "found": 1,
+    "requestType": "find"
+}

@@ -1,0 +1,19 @@
+{
+    "match": "computer",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "altitude": "80",
+            "country": "US",
+            "latitude": "40.81219864",
+            "name": "Computer Associates Heliport",
+            "municipality": "Islandia",
+            "id": "6NK7",
+            "type": "heliport",
+            "region": "US-NY",
+            "longitude": "-73.17579651"
+        }
+    ],
+    "requestType": "find"
+}

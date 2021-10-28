@@ -1,0 +1,43 @@
+{
+    "match": "circuit",
+    "limit": 0,
+    "found": 7,
+    "places": [
+        {
+            "latitude": "26.029738",
+            "name": "Bahrain International Circuit Heliport",
+            "longitude": "50.511709"
+        },
+        {
+            "latitude": "46.856388092041016",
+            "name": "Circuit Automobile de Nevers Magny-Cours Heliport",
+            "longitude": "3.1541669368743896"
+        },
+        {
+            "latitude": "30.13185",
+            "name": "Circuit of the Americas Helipad",
+            "longitude": "-97.63848"
+        },
+        {
+            "latitude": "41.571998596191406",
+            "name": "Servei D'Evacuació Del Circuit De Catalunya Heliport",
+            "longitude": "2.2620298862457275"
+        },
+        {
+            "latitude": "41.57400131225586",
+            "name": "Servei Generals Del Circuit De Catalunya Heliport",
+            "longitude": "2.257159948348999"
+        },
+        {
+            "latitude": "52.96013",
+            "name": "TT Circuit Assen Helipad",
+            "longitude": "6.525208"
+        },
+        {
+            "latitude": "24.469136",
+            "name": "Yas Marina Circuit Heliport",
+            "longitude": "54.603443"
+        }
+    ],
+    "requestType": "find"
+}

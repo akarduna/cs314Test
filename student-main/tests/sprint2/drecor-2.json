@@ -1,0 +1,58 @@
+{
+	"match": "Maine",
+	"limit": 0,
+	"places": [
+		{
+		"latitude": "38.38130187988281",
+		"name": "Maine Prairie Airport",
+		"longitude": "-121.823887495586"
+		},
+		{
+		"latitude": "46.70750045776367",
+		"name": "Northern Maine Regional Seaplane Base",
+		"longitude": "-68.06109619140625"
+		},
+		{
+		"latitude": "47.03670120239258",
+		"name": "Parc De La Vérendrye (Le Domaine) Seaplane Base",
+		"longitude": "-76.53669738769531"
+		},
+		{
+		"latitude": "50.259700775146484",
+		"name": "La Romaine Airport",
+		"longitude": "-60.67940139770508"
+		},
+		{
+		"latitude": "13.205499649047852",
+		"name": "Maine-Soroa Airport",
+		"longitude": "12.032299995422363"
+		},
+		{
+		"latitude": "44.71549988",
+		"name": "Central Maine Airport of Norridgewock",
+		"longitude": "-69.86650085"
+		},
+		{
+		"latitude": "46.68899918",
+		"name": "Northern Maine Regional Airport at Presque Isle",
+		"longitude": "-68.0447998"
+		},
+		{
+		"latitude": "44.80699920654297",
+		"name": "Eastern Maine Medical Center Heliport",
+		"longitude": "-68.7522964477539"
+		},
+		{
+		"latitude": "44.20309829711914",
+		"name": "Maine Helicopters Heliport",
+		"longitude": "-69.60749816894531"
+		},
+		{
+		"latitude": "-37.13330078125",
+		"name": "Castlemaine Airport",
+		"longitude": "144.16700744628906"
+		}
+	],
+	"found": 10,
+	"requestType": "find"
+}

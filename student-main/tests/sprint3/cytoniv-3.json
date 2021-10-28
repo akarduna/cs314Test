@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "Meiji Jingu",
+            "latitude": "35.676305033874755",
+            "longitude": "139.6994707152681"
+        },
+        {
+            "name": "Dakar",
+            "latitude": "14.716500867141164",
+            "longitude": "-17.468057124494095"
+        },
+        {
+            "name": "Isla Lenox",
+            "latitude": "-55.281636644826",
+            "longitude": "-66.91865439516093"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        13918,
+        9053,
+        17041
+    ],
+    "requestType": "distances"
+}

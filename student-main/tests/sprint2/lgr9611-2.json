@@ -1,0 +1,19 @@
+{
+    "requestType": "find",
+    "match": "Othello",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "name": "Othello Municipal Airport",
+            "latitude": "46.79489899",
+            "longitude": "-119.07900240",
+        },
+        {
+            "name": "Othello Community Hospital Heliport",
+            "latitude": "46.82609939",
+            "longitude": "-119.16899871"
+        }
+
+    ]
+}

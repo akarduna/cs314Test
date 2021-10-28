@@ -1,0 +1,97 @@
+{
+    "match": "foot",
+    "limit": 0,
+    "found": 19,
+    "places": [
+        {
+            "altitude": "978",
+            "iso_country": "US",
+            "latitude": "42.2510986328125",
+            "name": "W A Foote Memorial Hospital Heliport",
+            "municipality": "Jackson",
+            "id": "06MI",
+            "longitude": "-84.39140319824219"
+        },
+        {
+            "altitude": "730",
+            "iso_country": "US",
+            "latitude": "34.133487",
+            "name": "Foothill Presbyterian Hospital Heliport",
+            "municipality": "Glendora",
+            "id": "14CL",
+            "longitude": "-117.870677"
+        },
+        {
+            "altitude": "650",
+            "iso_country": "US",
+            "latitude": "41.086700439453125",
+            "name": "Foote Airport",
+            "municipality": "Wenona",
+            "id": "3IS7",
+            "longitude": "-89.09590148925781"
+        },
+        {
+            "altitude": "390",
+            "iso_country": "US",
+            "latitude": "31.079099655151367",
+            "name": "Thunderfoot Ranch Airport",
+            "municipality": "Tylertown",
+            "id": "3MS2",
+            "longitude": "-90.02839660644531"
+        },
+        {
+            "altitude": "1164",
+            "iso_country": "US",
+            "latitude": "41.009498596191406",
+            "name": "Wingfoot Lake Airship Operations Balloonport",
+            "municipality": "Akron Suffield",
+            "id": "4OH6",
+            "longitude": "-81.35790252685547"
+        },
+        {
+            "altitude": "3761",
+            "iso_country": "CA",
+            "latitude": "51.0654",
+            "name": "Foothills Hospital McCaig Tower Helipad",
+            "municipality": "Calgary",
+            "id": "CA-0587",
+            "longitude": "-114.135001"
+        },
+        {
+            "altitude": "1084",
+            "iso_country": "CA",
+            "latitude": "58.616694",
+            "name": "High Level/Footner Lake Seaplane Base",
+            "id": "CEK7",
+            "longitude": "-117.182999"
+        },
+        {
+            "altitude": "742",
+            "iso_country": "CA",
+            "latitude": "45.1296",
+            "name": "Foot\u0027s Bay Seaplane Base",
+            "municipality": "Foot\u0027s Bay",
+            "id": "CFB8",
+            "longitude": "-79.708601"
+        },
+        {
+            "altitude": "3635",
+            "iso_country": "CA",
+            "latitude": "51.065572",
+            "name": "Calgary (Foothills Hospital) Heliport",
+            "municipality": "Calgary",
+            "id": "CFP3",
+            "longitude": "-114.133186"
+        },
+        {
+            "altitude": "2438",
+            "iso_country": "US",
+            "latitude": "48.53889846801758",
+            "name": "Tanglefoot Seaplane Base",
+            "municipality": "Cavanaugh Bay",
+            "id": "D28",
+            "longitude": "-116.83200073242188"
+        }
+    ],
+    "requestType": "find"
+}

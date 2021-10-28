@@ -1,0 +1,32 @@
+{
+    "places": [
+        {
+            "latitude": "50",
+            "name": "Kaztal District, West Kazakhstan Region, 090700, Kazakhstan",
+            "longitude": "50"
+        },
+        {
+            "latitude": "50",
+            "name": "Unknown",
+            "longitude": "-50"
+        },
+        {
+            "latitude": "-50",
+            "name": "Unknown",
+            "longitude": "-50"
+        },
+        {
+            "latitude": "-50",
+            "name": "Unknown",
+            "longitude": "50"
+        }
+    ],
+    "earthRadius": 6371,
+    "distances": [
+        6560,
+        11119,
+        6560,
+        11119
+    ],
+    "requestType": "distances"
+}

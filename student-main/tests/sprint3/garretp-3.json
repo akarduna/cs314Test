@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "0",
+            "name": "Null Island",
+            "longitude": "0"
+        },
+        {
+            "latitude": "90",
+            "name": "North Pole",
+            "longitude": "0"
+        },
+        {
+            "latitude": "-90",
+            "name": "South Pole",
+            "longitude": "0"
+        }
+    ],
+    "earthRadius": 3959.0,
+    "distances": [
+        6219,
+        12438,
+        6219
+    ],
+    "requestType": "distances"
+}

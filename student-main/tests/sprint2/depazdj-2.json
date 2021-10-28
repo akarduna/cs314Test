@@ -1,0 +1,42 @@
+{
+	"match": "Canadia",
+	"limit": 0,
+	"found": 7,
+	"places": [{
+			"latitude": "43.57640075683594",
+			"name": "Canadian Lakes Airport",
+			"longitude": "-85.28060150146484"
+		},
+		{
+			"latitude": "54.775001525878906",
+			"name": "Smithers (Canadian) Heliport",
+			"longitude": "-127.13500213623047"
+		},
+		{
+			"latitude": "51.6322",
+			"name": "Canadian Skydive Centre Airport",
+			"longitude": "-114.1099"
+		},
+		{
+			"latitude": "51.3031005859375",
+			"name": "Golden (Canadian Helicopters) Heliport",
+			"longitude": "-116.98200225830078"
+		},
+		{
+			"latitude": "55.766700744628906",
+			"name": "Thompson (Canadian Helicopters) Heliport",
+			"longitude": "-97.81670379638672"
+		},
+		{
+			"latitude": "49.610801696777",
+			"name": "Cranbrook/Canadian Rockies International Airport",
+			"longitude": "-115.78199768066"
+		},
+		{
+			"latitude": "35.30939865112305",
+			"name": "Canadian River Ranch Airport",
+			"longitude": "-95.80829620361328"
+		}
+	],
+	"requestType": "find"
+}

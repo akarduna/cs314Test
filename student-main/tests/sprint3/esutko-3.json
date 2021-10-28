@@ -1,0 +1,26 @@
+{
+  "places": [
+    {
+      "latitude": "40.5737037",
+      "name": "Fort Collins",
+      "longitude": "-105.0836820"
+    },
+    {
+      "latitude": "39.9144457",
+      "name": "Beijing",
+      "longitude": "116.3909619"
+    },
+    {
+      "latitude": "-34.9011",
+      "name": "Montevideo",
+      "longitude": "-56.1645"
+    }
+  ],
+  "earthRadius": 3959.0,
+  "distances": [
+    6295,
+    11902,
+    6071
+  ],
+  "requestType": "distances"
+}

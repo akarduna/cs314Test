@@ -1,0 +1,48 @@
+{
+    "match": "#",
+    "limit": 0,
+    "found": 8,
+    "places": [
+        {
+            "latitude": "30.119753",
+            "name": "Doctors Memorial Hospital #2 Heliport",
+            "longitude": "-83.592732"
+        },
+        {
+            "latitude": "32.548984",
+            "name": "Yuma Auxiliary AAF #2",
+            "longitude": "-114.511383"
+        },
+        {
+            "latitude": "35.4531",
+            "name": "Reeves Auxillary Army Airfield #1",
+            "longitude": "-100.9825"
+        },
+        {
+            "latitude": "36.172031",
+            "name": "Tulare Motor Sports #1 Heliport",
+            "longitude": "-119.306181"
+        },
+        {
+            "latitude": "36.182556",
+            "name": "Tulare Motor Sports #2 Heliport",
+            "longitude": "-119.313572"
+        },
+        {
+            "latitude": "39.6536111111",
+            "name": "West Virginia Univ. Hosp. Inc. Gnd. Pad #2 Heliport",
+            "longitude": "-79.9561111111"
+        },
+        {
+            "latitude": "40.121944",
+            "name": "Frederick-Firestone F.S. #2 Heliport",
+            "longitude": "-104.980833"
+        },
+        {
+            "latitude": "41.235503",
+            "name": "Hanover Township Fire Station #5 Heliport",
+            "longitude": "-75.934044"
+        }
+    ],
+    "requestType": "find"
+}

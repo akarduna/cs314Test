@@ -1,0 +1,32 @@
+{
+  "places": [
+    {
+      "name": "Ejido San Juan de la Cruz, Doctor Arroyo, Nuevo León, Mexico",
+      "latitude": "23.79760125927826",
+      "longitude": "-100.01498721867377"
+    },
+    {
+      "name": "Yukon, Unorganized, Yukon, Canada",
+      "latitude": "60.042156741626734",
+      "longitude": "-127.9649721415061"
+    },
+    {
+      "name": "Vila Ladeira Vermelha, São Félix do Xingu, Região Geográfica Imediata de Tucumã - São Félix do Xingu, Região Geográfica Intermediária de Redenção, Pará, North Region, Brazil",
+      "latitude": "-5.883167346482624",
+      "longitude": "-51.32443628740166"
+    },
+    {
+      "name": "Altai, Govi-Altai, Mongolia",
+      "latitude": "43.914816537041496",
+      "longitude": "95.64410131514026"
+    }
+  ],
+  "earthRadius": 3959,
+  "distances": [
+    2842,
+    6115,
+    9135,
+    7654
+  ],
+  "requestType": "distances"
+}

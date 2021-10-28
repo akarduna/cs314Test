@@ -1,0 +1,22 @@
+{
+  "places":[
+  {
+  "latitude":"34.31",
+  "name":"Cordes Airport (historical)",
+  "longitude":"-112.17"
+  },
+  {
+  "latitude":"40.57",
+  "name":"fort colins",
+  "longitude":"-105.08"
+  },
+  {
+  "latitude":"36.58",
+  "name":"Vaughan Airport",
+  "longitude":"79.00"
+  }
+  ],
+  "earthRadius":3959.0,
+  "distances":[581,7100,7486],
+  "requestType":"distances"
+  }

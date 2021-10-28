@@ -1,0 +1,140 @@
+[
+  {"id": "daives", "name": "Ghost Train Brewing", "municipality": "Birmingham", "region": "Alabama", "latitude": "33.5145205", "longitude": "-86.7938218", "altitude": "642"}
+  ,{"id": "alapwn", "name": "Big Beach Brewing Company", "municipality": "Gulf Shores", "region": "Alabama", "latitude": "30.276946", "longitude": "-87.683899", "altitude": "24"}
+  ,{"id": "sethgene", "name": "Oversoul Brewing", "municipality": "Helena", "region": "Alabama", "latitude": "33.29663", "longitude": "-86.84356", "altitude": "410"}
+  ,{"id": "codak", "name": "Wren House Brewing Company", "municipality": "Phoenix", "region": "Arizona", "latitude": "33.471288", "longitude": "-112.029775", "altitude": "1119"}
+  ,{"id": "puttputt", "name": "Prescott Brewing Company", "municipality": "Prescott", "region": "Arizona", "latitude": "34.542", "longitude": "-112.470", "altitude": "5393"}
+  ,{"id": "alwarith", "name": "Borderlands Brewing Company", "municipality": "Tucson", "region": "Arizona", "latitude": "32.22610", "longitude": "-110.96883", "altitude": "2391"}
+  ,{"id": "akilbo", "name": "Ozark Beer Company", "municipality": "Rogers", "region": "Arkansas", "latitude": "36.33383", "longitude":"-94.11486", "altitude": "1371"}
+  ,{"id": "bmbright", "name": "Ballast Point Brewing Co.", "municipality": "Anaheim", "region": "California", "latitude": "33.809108", "longitude": "-117.922767", "altitude": "41"}
+  ,{"id": "ahantke", "name": "Sierra Nevada Brewing Co", "municipality": "Chico", "region": "California", "latitude": "39.723679", "longitude": "-121.815453", "altitude": "223"}
+  ,{"id": "cmack816", "name": "Root of Happiness", "municipality": "Davis", "region": "California", "latitude": "38.5438", "longitude": "-121.7404", "altitude": "56"}
+  ,{"id": "bginna", "name": "Half Moon Bay Brewing Company", "municipality": "Half Moon Bay", "region": "California", "latitude": "37.504083", "longitude": "-122.485569", "altitude": "7"}
+  ,{"id": "guz339", "name": "Eagle Rock Brewery", "municipality": "Los Angeles", "region": "California", "latitude": "34.11510", "longitude": "-118.24332", "altitude": "410"}
+  ,{"id": "devinwu2", "name": "Oceanside Brewing Company", "municipality": "Oceanside", "region": "California", "latitude": "33.2128", "longitude": "-117.3523", "altitude": "39"}
+  ,{"id": "wellsja", "name": "San Diego Brewing Company", "municipality": "San Diego", "region": "California", "latitude": "32.790851", "longitude": "-117.099007", "altitude": "92"}
+  ,{"id": "rjnewby", "name": "Standard Deviant Brewing", "municipality": "San Francisco", "region": "California", "latitude": "37.768412", "longitude": "122.419488", "altitude": "18"}
+  ,{"id": "coleb10", "name": "Docent Brewing", "municipality": "San Juan Capistrano", "region": "California", "latitude": "33.482896", "longitude": "-117.675894", "altitude": "73"}
+  ,{"id": "gmyzer", "name": "Firestone Walker Brewing Company", "municipality": "San Luis Obispo", "region": "California", "latitude": "35.61474", "longitude": "-120.69295", "altitude": "754"}
+  ,{"id": "davematt", "name": "New Belgium Brewing Company", "municipality": "Fort Collins", "region": "Colorado", "latitude": "40.5932376", "longitude": "-105.068601", "altitude": "4967"}
+  ,{"id": "rpcme", "name": "Kent Falls Brewing Company", "municipality": "Kent", "region": "Connecticut", "latitude": "41.688859", "longitude": "-73.388968", "altitude": "682"}
+  ,{"id": "gwill", "name": "Labyrinth Brewing Company", "municipality": "Manchester", "region": "Connecticut", "latitude": "41.460233", "longitude": "-72.316544", "altitude": "216"}
+  ,{"id": "holmesaw", "name": "Dogfish Head Craft Brewery", "municipality": "Milton", "region": "Delaware", "latitude": "38.7704", "longitude": "-75.3110", "altitude": "26"}
+  ,{"id": "apappas", "name": "Bellefonte Brewing Company", "municipality": "Wilmington", "region": "Delaware", "latitude": "39.74594", "longitude": "-75.54658", "altitude": "92"}
+  ,{"id": "nws", "name": "DC Brau Brewing Company", "municipality": "Washington, D.C.", "region": "District of Columbia", "latitude": "38.929521", "longitude": "-76.960181", "altitude": "123"}
+  ,{"id": "mlopez18", "name": "The Waterfront Brewery", "municipality": "Key West", "region": "Florida", "latitude": "24.559722", "longitude": "-81.683333", "altitude": "7"}
+  ,{"id": "joaop", "name": "Miami Brewing Company", "municipality": "Miami", "region": "Florida", "latitude": "25.489200", "longitude": "-80.540887", "altitude": "6"}
+  ,{"id": "jcao7", "name": "Riptide Brewing Company", "municipality": "Naples", "region": "Florida", "latitude": "26.15110", "longitude": "-81.79481", "altitude": "3"}
+  ,{"id": "annierud", "name": "Funky Buddha Brewery", "municipality": "Oakland Park", "region": "Florida", "latitude": "26.1742530", "longitude": "-80.1313440", "altitude": "20"}
+  ,{"id": "kroskykb", "name": "Cigar City Brewing", "municipality": "Tampa", "region": "Florida", "latitude": "27.95888101", "longitude": "-82.50948111", "altitude": "36"}
+  ,{"id": "jritz11", "name": "Angry Chair Brewing", "municipality": "Tampa Bay", "region": "Florida", "latitude": "28.00679", "longitude": "-82.45801", "altitude": "48"}
+  ,{"id": "eide1992", "name": "Terrapin Beer Company", "municipality": "Athens", "region": "Georgia", "latitude": "33.980475", "longitude": "-83.396663", "altitude": "682"}
+  ,{"id": "ccluett", "name": "SweetWater Brewing Co.", "municipality": "Atlanta", "region": "Georgia", "latitude": "33.808585661759246", "longitude": "-84.38020715992027", "altitude": "860"}
+  ,{"id": "jachyatt", "name": "Savannah River Brewing Company", "municipality": "Augusta", "region": "Georgia", "latitude": "33.46468848", "longitude": "-81.96360534", "altitude": "141"}
+  ,{"id": "carnhy", "name": "Payette Brewing Company", "municipality": "Boise", "region": "Idaho", "latitude": "43.6133583", "longitude": "-116.2154167", "altitude": "2680"}
+  ,{"id": "mayavit", "name": "Sawtooth Brewery Public House", "municipality": "Ketchum", "region": "Idaho", "latitude": "43.68236", "longitude": "-114.36702", "altitude": "5839"}
+  ,{"id": "lmkerr", "name": "Grand Teton Brewing Company", "municipality": "Victor", "region": "Idaho", "latitude": "43.592880", "longitude": "-111.102351", "altitude": "6276"}
+  ,{"id": "mstrikr", "name": "Adams Street Brewery", "municipality": "Chicago", "region": "Illinois", "latitude": "41.879167", "longitude": "-87.628333", "altitude": "587"}
+  ,{"id": "pragjnab", "name": "One Allegiance Brewing Company", "municipality": "Chicago Ridge", "region": "Illinois", "latitude": "41.706882", "longitude": "-87.797199", "altitude": "589"}
+  ,{"id": "mcahill1", "name": "Miskatonic Brewing", "municipality": "Darien", "region": "Illinois", "latitude": "41.7343113", "longitude": "-87.9693171", "altitude": "732"}
+  ,{"id": "sonudilp", "name": "Iron Spike Brewing Company", "municipality": "Galesburg", "region": "Illinois", "latitude": "40.946270", "longitude": "-90.368998", "altitude": "772"}
+  ,{"id": "pjackim", "name": "Mickey Finn's Brewery", "municipality": "Libertyville", "region": "Illinois", "latitude": "42.286722", "longitude": "-87.954676", "altitude": "713"}
+  ,{"id": "mcr914", "name": "Tangled Roots Brewing Company", "municipality": "Ottawa", "region": "Illinois", "latitude": "41.2053", "longitude": "-88.5032", "altitude": "511"}
+  ,{"id": "tjhollan", "name": "Triptych Brewing", "municipality": "Savoy", "region": "Illinois", "latitude": "40.076763", "longitude": "-88.249012", "altitude": "730"}
+  ,{"id": "drecor", "name": "Urban Vines Winery & Brewery", "municipality": "Indianapolis", "region": "Indiana", "latitude": "40.0194", "longitude": "-86.1533", "altitude": "892"}
+  ,{"id": "drehberg", "name": "3 Floyds Brewing", "municipality": "Munster", "region": "Indiana", "latitude": "41.535328", "longitude": "-87.516541", "altitude": "628"}
+  ,{"id": "bjurenka", "name": "Alluvial Brewing Company", "municipality": "Ames", "region": "Iowa", "latitude": "42.07865", "longitude": "-93.6688", "altitude": "970"}
+  ,{"id": "chrismha", "name": "Carroll Brewing Company", "municipality": "Carroll", "region": "Iowa", "latitude": "42.063745", "longitude": "-94.865123", "altitude": "386"}
+  ,{"id": "mdboone", "name": "Iowa Brewing Company", "municipality": "Cedar Rapids", "region": "Iowa", "latitude": "41.9743", "longitude": "-91.6619", "altitude": "722"}
+  ,{"id": "anupkh", "name": "Big Rack Brew Haus", "municipality": "Winterset", "region": "Iowa", "latitude": "41.286504", "longitude": "-93.92337", "altitude": "332"}
+  ,{"id": "awedel", "name": "23rd Street Brewery", "municipality": "Lawrence", "region": "Kansas", "latitude": "38.9430000", "longitude": "-95.2810000", "altitude": "866"}
+  ,{"id": "hinzan", "name": "Kansas Territory Brewing Co.", "municipality": "Washington", "region": "Kansas", "latitude": "39.817068", "longitude": "-97.051110", "altitude": "1326"}
+  ,{"id": "rachilya", "name": "Blue Stallion Brewing Co.", "municipality": "Lexington", "region": "Kentucky", "latitude": "38.057127", "longitude": "-84.501341", "altitude": "978"}
+  ,{"id": "brockli", "name": "Atlantic Brewing Midtown", "municipality": "Bar Harbor", "region": "Maine", "latitude": "44.389260", "longitude": "-68.206980", "altitude": "72"}
+  ,{"id": "depazdj", "name": "Allagash Brewing Company", "municipality": "Portland", "region": "Maine", "latitude": "43.7031", "longitude": "-70.3175", "altitude": "105"}
+  ,{"id": "isnyder", "name": "Some Brewing Company", "municipality": "York", "region": "Maine", "latitude": "43.150089", "longitude": "-70.665509", "altitude": "49"}
+  ,{"id": "dreamfox", "name": "Calvert Brewing Company", "municipality": "Upper Marlboro", "region": "Maryland", "latitude": "38.88578407957589", "longitude": "-76.73086093068801", "altitude": "131"}
+  ,{"id": "schmike", "name": "Samuel Adams Boston Brewery", "municipality": "Boston", "region": "Massachusetts", "latitude": "42.315555", "longitude": "-71.103262", "altitude": "141"}
+  ,{"id": "lxh", "name": "Merrimack Ales", "municipality": "Lowell", "region": "Massachusetts", "latitude": "42.625625", "longitude": "-72.297966", "altitude": "142"}
+  ,{"id": "dylan2", "name": "Bit Bar Salem", "municipality": "Salem", "region": "Massachusetts", "latitude": "42.524631", "longitude": "-70.893120", "altitude": "14"}
+  ,{"id": "ojaswi", "name": "Bell's Brewery", "municipality": "Camstock", "region": "Michigan", "latitude": "42.1658", "longitude": "-85.2713", "altitude": "778"}
+  ,{"id": "jolinder", "name": "Stormcloud Brewing Company", "municipality": "Frankfort", "region": "Michigan", "latitude": "44.63281858361916", "longitude": "-86.241060502213", "altitude": "590"}
+  ,{"id": "cytoniv", "name": "Dead Bear Brewing Company", "municipality": "Grayling", "region": "Michigan", "latitude": "44.64866", "longitude": "-84.70938", "altitude": "1148"}
+  ,{"id": "lcadman", "name": "Bricksworth Beer Co.", "municipality": "Burnsville", "region": "Minnesota", "latitude": "44.780960", "longitude": "-93.277508", "altitude": "847"}
+  ,{"id": "iliyan","name": "Old Burdick's Bar & Grill","municipality": "Kalamazoo","region": "minnesota","latitude": "42.2918","longitude": "-85.5837","altitude": "777"}
+  ,{"id": "mespy50","name": "Historic Grain Belt Brewery","municipality": "Minneapolis","region": "Minnesota","latitude": "44.5996","longitude": "-93.1620","altitude": "830"}
+  ,{"id": "nickiscool01","name": "Summit Brewing Company","municipality": "Saint Paul","region": "Minnesota","latitude": "44.911628","longitude": "-93.141083","altitude": "696"}
+  ,{"id": "dpohl", "name": "Hops and Growlers", "municipality": "Ocean Springs", "region": "Mississippi", "latitude": "30.2494", "longitude": "-88.4822", "altitude": "108"}
+  ,{"id": "absarah", "name": "Piney River Brewing Company", "municipality": "Bucryrus", "region": "Missouri", "latitude": "37.32180368", "longitude": "-92.01554823", "altitude": "1072"}
+  ,{"id": "ramast1", "name": "White River Brewing Company", "municipality": "Springfield", "region": "Missouri", "latitude": "37.2295359", "longitude": "-93.2954545", "altitude": "1348"}
+  ,{"id": "dbutcher", "name": "Public House Brewing Company", "municipality": "St. James", "region": "Missouri", "latitude": "38.00944", "longitude": "-91.60833", "altitude": "1079"}
+  ,{"id": "jcbradle", "name": "Montana Brewing Company", "municipality": "Billings", "region": "Montana", "latitude": "45.782676", "longitude": "-108.506067", "altitude": "3185"}
+  ,{"id": "etham", "name": "Bozeman Brewing Company", "municipality": "Bozeman", "region": "Montana", "latitude": "45.6845683", "longitude": "-111.0260425", "altitude": "4770"}
+  ,{"id": "shayag", "name": "Bitter Root Brewing", "municipality": "Hamilton", "region": "Montana", "latitude": "46.24735", "longitude": "-114.15428", "altitude": "3570"}
+  ,{"id": "zachf", "name": "Blackfoot River Brewing Co", "municipality": "Helena", "region": "Montana", "latitude": "46.586210", "longitude": "-112.041890", "altitude": "3875"}
+  ,{"id": "mdees15", "name": "Kalispell Brewing Company", "municipality": "Kalispell", "region": "Montana", "latitude": "48.194630", "longitude": "-114.312610", "altitude": "2953"}
+  ,{"id": "kaiyan", "name": "Upstream Brewing Company", "municipality": "Omaha", "region": "Nebraska", "latitude": "41.254710", "longitude": "-95.9308408", "altitude": "1043"} 
+  ,{"id": "daknis", "name": "Fort Orange Brewing", "municipality": "Albany", "region": "New York", "latitude": "42.667215", "longitude": "-73.743114", "altitude": "49"}
+  ,{"id": "ffelix1", "name": "Marble Brewery", "municipality": "Albuquerque", "region": "New Mexico", "latitude": "35.0927917", "longitude": "-106.6467528", "altitude": "4967"}
+  ,{"id": "csdietz", "name": "Second Street Brewery", "municipality": "Santa Fe","region": "New Mexico", "latitude": "35.662115", "longitude": "-105.965092", "altitude": "6879"}
+  ,{"id": "cgotch", "name": "Mr. Goodbar", "municipality": "Buffalo", "region": "New York", "latitude": "42.880230", "longitude": "-78.878738", "altitude": "633"}
+  ,{"id": "npuri", "name": "Brewery Ommegang", "municipality": "Cooperstown", "region": "New York", "latitude": "42.62669", "longitude": "-74.94435", "altitude": "1255"}
+  ,{"id": "ryterski", "name": "Brooklyn Brewery", "municipality": "New York", "region": "New York", "latitude": "40.721442", "longitude": "-73.957356", "altitude": "45"}
+  ,{"id": "daleym98", "name": "Northway Brewing Co.", "municipality": "Queensbury", "region": "New York", "latitude": "43.3434193", "longitude": "-73.6862709", "altitude": "487"}
+  ,{"id": "ernman", "name": "Brickyard Brewing Co.", "municipality": "Lewiston", "region": "New York", "latitude": "43.173198", "longitude": "-79.043099", "altitude": "383"}
+  ,{"id": "ntorraca", "name": "Port Jeff Brewing Company", "municipality": "Port Jefferson", "region": "New Yok", "latitude": "40.5644", "longitude": "-73.0406", "altitude": "4"}
+  ,{"id": "normanaa", "name": "Frog Alley Brewing", "municipality": "Schenectady", "region": "New York", "latitude": "42.8148327", "longitude": "-73.9463745", "altitude": "231"}
+  ,{"id": "amirr23", "name": "Wicked Weed Brewing Pub", "municipality": "Asheville", "region": "North Carolina", "latitude": "35.591679", "longitude": "-82.551086", "altitude": "2159"}
+  ,{"id": "ryost", "name": "Brevard Brewing Company", "municipality": "Brevard", "region": "North Carolina", "latitude": "35.233406", "longitude": "-82.733255", "altitude": "2216"}
+  ,{"id": "aderr011", "name": "Laughing Sun Brewing Co.", "municipality": "Bismarck", "region": "North Dakota", "latitude": "46.803751", "longitude": "-100.775724", "altitude": "1673"}
+  ,{"id": "blosche", "name": "Atypical Brewery & Barrelworks", "municipality": "Minot", "region": "North Dakota", "latitude": "48.2361773", "longitude": "-101.2854143", "altitude": "1548"}
+  ,{"id": "kbuckey", "name": "MadTree Brewery", "municipality": "Cincinnati", "region": "Ohio", "latitude": "39.156446", "longitude": "-84.424038", "altitude": "626"}
+  ,{"id": "sammckay", "name": "Platform Beer Co.", "municipality": "Cleveland", "region": "Ohio", "latitude": "41.479877", "longitude": "-81.713978", "altitude": "687"}
+  ,{"id": "garretp", "name": "Deschutes Brewery", "municipality": "Bend", "region": "Oregon", "latitude": "40.5932376", "longitude": "-121.311469", "altitude": "3649"}
+  ,{"id": "crish", "name": "Oregon Trail Brewery", "municipality": "Corvallis", "region": "Oregon", "latitude": "44.5612532", "longitude": "-123.26097", "altitude": "229"}
+  ,{"id": "akarduna", "name": "Ninkasi Brewing", "municipality": "Eugene", "region": "Oregon", "latitude": "44.058174", "longitude": "-123.111396", "altitude": "449"}
+  ,{"id": "fargah1", "name": "Ruse Brewing", "municipality": "Portland", "region": "Oregon", "latitude": "45.487724", "longitude": "-122.648240", "altitude": "59"}
+  ,{"id": "scalfjm", "name": "Victory Brewing Company", "municipality": "Downingtown", "region": "Pennsylvania", "latitude": "40.004718", "longitude": "-75.6938179", "altitude": "266"}
+  ,{"id": "kfinger", "name": "Zeroday Brewing Company", "municipality": "Harrisburg", "region": "Pennsylvania", "latitude": "40.267109", "longitude": "-76.886876", "altitude": "328"}
+  ,{"id": "tmanb", "name": "D.G. Yeungling & Son", "municipality": "Pottsville", "region": "Pennsylvania", "latitude": "40.6381", "longitude": "-76.1977", "altitude": "729"}
+  ,{"id": "trostrn", "name": "Tilted Barn Brewery", "municipality": "Exeter", "region": "Rhode Island", "latitude": "41.5703167", "longitude": "-71.5178443", "altitude": "190"}
+  ,{"id": "olivia4", "name": "Providence Brewing Company", "municipality": "Providence", "region": "Rhode Island", "latitude": "41.825226", "longitude": "-71.418884", "altitude": "75"}
+  ,{"id": "trothert", "name": "Miner Brewing Company", "municipality": "Hill City", "region": "South Dakota", "latitude": "43.94854", "longitude": "-103.52242", "altitude": "4841"}
+  ,{"id": "darinh", "name": "Dakota Point Brewing", "municipality": "Rapid City", "region": "South Dakota", "latitude": "44.082818", "longitude": "-103.243695", "altitude": "3283"}
+  ,{"id": "bcates", "name": "Heaven and Ale Brewing Company", "municipality": "Chattanooga", "region": "Tennessee", "latitude": "35.034167", "longitude": "-85.3025", "altitude": "659"}
+  ,{"id": "dsmcc", "name": "Thirsty Planet Brewing Company", "municipality": "Austin", "region": "Texas", "latitude": "30.175637", "longitude": "-97.783669", "altitude": "678"}
+  ,{"id": "sabdulm", "name": "Revolver Brewing", "municipality": "Granbury", "region": "Texas", "latitude": "32.416640", "longitude": "-97.668810", "altitude": "782"}
+  ,{"id": "tannerjm", "name": "Shannon Brewing Company", "municipality": "Keller", "region": "Texas", "latitude": "32.947030", "longitude": "-97.251182", "altitude": "706"}
+  ,{"id": "farsi99", "name": "Mano Negra Brewing Co.", "municipality": "Lubbock", "region": "Texas", "latitude": "33.570511", "longitude": "-101.910549", "altitude": "3247"}
+  ,{"id": "keeler", "name": "False Idol Brewing", "municipality": "North Richland Hills", "region": "Texas", "latitude": "32.837911", "longitude": "-97.209160", "altitude": "589"}
+  ,{"id": "nkowalcz", "name": "Pabst Brewing Company", "municipality": "San Antonio", "region": "Texas", "latitude": "29.426111", "longitude": "-98.493056", "altitude": "722"}
+  ,{"id": "asterix", "name": "Old Schoolhouse Brewery", "municipality": "Winthrop", "region": "Washington", "latitude": "48.477689", "longitude": "-120.187715", "altitude": "1914"} 
+  ,{"id": "dylan14", "name": "Fire Ant Brewery", "municipality": "Tomball", "region": "Texas", "latitude": "30.09648", "longitude": "-95.61610", "altitude": "183"}
+  ,{"id": "adeverau", "name": "Moab Brewery", "municipality": "Moab", "region": "Utah", "latitude": "38.562500", "longitude": "-109.549444", "altitude": "4087"}
+  ,{"id": "grovee", "name": "Talisman Brewing", "municipality": "Ogden", "region": "Utah", "latitude": "41.243566", "longitude": "-111.984078", "altitude": "4294"}
+  ,{"id": "esutko", "name": "Port City Brewing Company", "municipality": "Alexandria", "region": "Virginia", "latitude": "38.8079586", "longitude": "-77.101423", "altitude": "49"}
+  ,{"id": "sgreyson", "name": "Bear Chase Brewing Company", "municipality": "Bluemont", "region": "Virginia", "latitude": "39.111122", "longitude": "-77.845809", "altitude": "1220"}
+  ,{"id": "samsonmn", "name": "Ono Brewing Company", "municipality": "Chantilly", "region": "Virginia", "latitude": "38.883219", "longitude": "-77.444964", "altitude": "299"}
+  ,{"id": "jeydnb", "name": "Starr Hill Brewery", "municipality": "Crozet", "region": "Virginia", "latitude": "38.068351", "longitude": "-78.687527", "altitude": "679"}
+  ,{"id": "elita", "name": "Pale Fire Brewing Co.", "municipality": "Harrisonburg", "region": "Virginia", "latitude": "38.4476272054414", "longitude": "-78.87206880460336", "altitude": "1320"}  
+  ,{"id": "ruzuzu", "name": "Aslin Beer Company", "municipality": "Herndon", "region": "Virginia", "latitude": "38.969496", "longitude": "-77.386939", "altitude": "370"}
+  ,{"id": "vanhook", "name": "Back Bay Brewing Co.", "municipality": "Virginia Beach", "region": "Virginia", "latitude": "36.843888", "longitude": "-75.982974", "altitude": "7"}
+  ,{"id": "joshbmr", "name": "Bellevue Brewing Company", "municipality": "Bellevue", "region": "Washington", "latitude": "47.626573", "longitude": "-122.166175", "altitude": "203"}
+  ,{"id": "pritche", "name": "Aslan Brewing Company", "municipality": "Bellingham", "region": "Washington", "latitude": "48.74916667", "longitude": "-122.47472222", "altitude": "114"}
+  ,{"id": "hrenstrom", "name": "Lost Falls Brewery", "municipality": "Colville", "region": "Washington", "latitude": "48.545278", "longitude": "-117.909722", "altitude": "1575"}
+  ,{"id": "jmismas", "name": "Icicle Brewing Company", "municipality": "Leavenworth", "region": "Washington", "latitude": "47.596884", "longitude": "-120.659757", "altitude": "356"}
+  ,{"id": "mfout", "name": "Fremont Brewing", "municipality": "Seattle", "region": "Washington", "latitude": "47.6634", "longitude": "-122.3679", "altitude": "28"}
+  ,{"id": "caspian", "name": "Laht Neppur Brewing", "municipality": "Waitsburg", "region": "Washington", "latitude": "46.2696947", "longitude": "-118.1484371", "altitude": "1265"} 
+  ,{"id": "asterix", "name": "Old Schoolhouse Brewery", "municipality": "Winthrop", "region": "Washington", "latitude": "48.477689", "longitude": "-120.187715", "altitude": "1914"} 
+  ,{"id": "nfkamp", "name": "Brew Keepers", "municipality": "Wheeling", "region": "West Virginia", "latitude": "40.059787", "longitude": "-80.726619", "altitude": "657"}
+  ,{"id": "mjmccann", "name": "Door County Brewing Co.", "municipality": "Baileys Harbor", "region": "Wisconsin", "latitude": "45.064440986802296", "longitude": "-87.12379101026477", "altitude": "587"}
+  ,{"id": "evrose54", "name": "Jacob Leinenkugel Brewing Company", "municipality": "Chippewa Falls", "region": "Wisconsin", "latitude": "44.943327", "longitude": "-91.395587", "altitude": "853"}
+  ,{"id": "bilprice", "name": "New Glarus Brewing Company", "municipality": "New Glarus", "region": "Wisconsin", "latitude": "42.7943548", "longitude": "-89.6299298", "altitude": "899"}
+  ,{"id": "jacc", "name": "Fish Brewing Company", "municipality": "Olympia", "region": "Washington", "latitude": "47.043905", "longitude": "-122.896372", "altitude": "95"}
+  ,{"id": "asterix", "name": "Old Schoolhouse Brewery", "municipality": "Winthrop", "region": "Washington", "latitude": "48.477689", "longitude": "-120.187715", "altitude": "1914"}
+  ,{"id": "abarth11", "name": "Black Tooth Brewing Company", "municipality": "Cheyenne", "region": "Wyoming", "latitude": "41.1325", "longitude": "-104.821389", "altitude": "6069"} 
+  ,{"id": "pmavrako", "name": "Snake River Brewing", "municipality": "Jackson", "region": "Wyoming", "latitude": "43.476820", "longitude": "-110.765390", "altitude": "6224"}
+  ,{"id": "maxwelbaron", "name": "Freedom's Edge Brewing Co.", "municipality": "Cheyenne", "region": "Wyoming", "latitude": "41.1505425", "longitude": "-104.8267032", "altitude": "1874"}
+  ,{"id": "ewest01", "name": "Bond's Brewing Company", "municipality": "Laramie", "region": "Wyoming", "latitude": "41.309651", "longitude": "-105.595911", "altitude": "8946"}
+  ,{"id": "lgr9611", "name": "Manayunk Brewing Company", "municipality": "Lower Merion Township", "region": "Pennsylvania", "latitude": "40.0121", "longitude": "-75.1302", "altitude": "65"}
+]

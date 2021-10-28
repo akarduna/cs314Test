@@ -1,0 +1,19 @@
+
+{
+    "match": "Delhi",
+    "found": 2,
+    "limit": 0,
+    "places": [
+        {
+            "latitude": "28.55502",
+            "name": "Indira Gandhi International Airport",
+            "longitude": "77.10100"
+        },
+        {
+            "latitude": "28.524265",
+            "name": "Qutub Minar",
+            "longitude": "77.187015"
+        }
+    ],
+    "requestType": "find"
+}

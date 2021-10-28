@@ -1,0 +1,20 @@
+{
+  "match": "Denver International Airport",
+  "places": [
+    {
+      "altitude": "5431",
+      "country": "United States",
+      "latitude": "39.861698150635",
+      "name": "Denver International Airport",
+      "municipality": "Denver",
+      "id": "KDEN",
+      "type": "large_airport",
+      "region": "Colorado",
+      "url": "http://www.flydenver.com/",
+      "longitude": "-104.672996521"
+    }
+  ],
+  "limit": 0,
+  "found": 1,
+  "requestType": "find"
+}

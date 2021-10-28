@@ -1,0 +1,29 @@
+{
+    "match": "Sofia",
+    "limit": 0,
+    "found": 2,
+    "type": ["airport"],
+    "where": ["BG","MX"],
+
+    "places": [
+        {
+            "altitude": "1742",
+            "iso_country": "BG",
+            "latitude": "42.696693420410156",
+            "name": "Sofia Airport",
+            "municipality": "Sofia",
+            "id": "LBSF",
+            "longitude": "23.411436080932617"
+        },
+        {
+            "altitude": "5650",
+            "iso_country": "MX",
+            "latitude": "20.53887",
+            "name": "Sofía Airport",
+            "municipality": "Irapuato",
+            "id": "MX-0247",
+            "longitude": "-101.45003"
+        }
+    ],
+    "requestType": "find"
+}

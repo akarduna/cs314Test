@@ -1,0 +1,27 @@
+{
+    "match": "zoo",
+    "limit": 0,
+    "found": 3,
+    "places": [
+        {
+            "name": "Kalamazoo Battle Creek International Airport",
+          	"municipality": "Kalamazoo",
+            "latitude": "42.234901428222656",
+            "longitude": "-85.552101135253"
+        },
+       {
+            "name": "Yazoo County Airport",
+            "municipality": "Yazoo City",
+            "latitude": "32.883201599121094",
+            "longitude": "-90.463600158691"
+        },
+       {
+            
+            "name": "Zoomer Field",
+            "municipality": "Sheldon",
+            "latitude": "40.78889846801758",
+            "longitude": "-87.558403015136"
+        }
+    ],
+    "requestType": "find"
+}

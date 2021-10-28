@@ -1,0 +1,24 @@
+{
+    "match": "Heathrow",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "country": "GB",
+            "latitude": "51.4706",
+            "name": "London Heathrow Airport",
+            "index": "1",
+            "type": "large_airport",
+            "longitude": "-0.461941"
+        },
+        {
+            "country": "US",
+            "latitude": "31.43910026550293",
+            "name": "Heathrow Airport",
+            "index": "2",
+            "type": "small_airport",
+            "longitude": "-97.14689636230469"
+        }
+    ],
+    "requestType": "find"
+}

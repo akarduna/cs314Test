@@ -1,0 +1,78 @@
+{
+    "match": "new york",
+    "limit": 0,
+    "places": [
+        {
+            "name": "New York State Police Heliport",
+            "latitude": "42.92839813232422",
+            "longitude": "-76.6155014038086"
+        },
+        {
+            "name": "New York Mills Municipal Airport",
+            "latitude": "46.502201080322266",
+            "longitude": "-95.3375015258789"
+        },
+        {
+            "name": "New York Skyports Inc Seaplane Base",
+            "latitude": "40.734001",
+            "longitude": "-73.9729"
+        },
+        {
+            "name": "New York State D.E.C. Indian Lake Heliport",
+            "latitude": "43.76810073852539",
+            "longitude": "-74.26329803466797"
+        },
+        {
+            "name": "Essex County Airport",
+            "latitude": "40.875198364300005",
+            "longitude": "-74.2814025879"
+        },
+        {
+            "name": "Newark Liberty International Airport",
+            "latitude": "40.692501068115234",
+            "longitude": "-74.168701171875"
+        },
+        {
+            "name": "Westchester County Airport",
+            "latitude": "41.06700134277344",
+            "longitude": "-73.70760345458984"
+        },
+        {
+            "name": "John F Kennedy International Airport",
+            "latitude": "40.63980103",
+            "longitude": "-73.77890015"
+        },
+        {
+            "name": "Linden Airport",
+            "latitude": "40.617401123",
+            "longitude": "-74.2445983887"
+        },
+        {
+            "name": "La Guardia Airport",
+            "latitude": "40.77719879",
+            "longitude": "-73.87259674"
+        },
+        {
+            "name": "Morristown Municipal Airport",
+            "latitude": "40.799400329589844",
+            "longitude": "-74.41490173339844"
+        },
+        {
+            "name": "Floyd Bennett Field",
+            "latitude": "40.591",
+            "longitude": "-73.890999"
+        },
+        {
+            "name": "Teterboro Airport",
+            "latitude": "40.85010147089999",
+            "longitude": "-74.060798645"
+        },
+        {
+            "name": "Lincoln Park Airport",
+            "latitude": "40.9474983215332",
+            "longitude": "-74.31449890136719"
+        }
+    ],
+    "found": 14,
+    "requestType": "find"
+}

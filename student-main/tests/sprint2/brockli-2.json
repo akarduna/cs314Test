@@ -1,0 +1,23 @@
+{
+    "match": "vanau",
+    "limit": 0,
+    "found": 3,
+    "places": [
+        {
+            "name": "Cavanaugh Airport",
+            "latitude": "40.51390075683594",
+            "longitude": "-99.01200103759766"
+        },
+        {
+            "name": "Cavanaugh Bay Airport",
+            "latitude": "48.52080154418945",
+            "longitude": "-116.83000183105469"
+        },
+        {
+            "name": "Tanglefoot Seaplane Base",
+            "latitude": "48.53889846801758",
+            "longitude": "-116.83200073242188"
+        }
+    ],
+    "requestType": "find"
+}

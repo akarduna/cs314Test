@@ -1,0 +1,18 @@
+{
+    "match": "Kuala Lumpur",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "latitude": "2.745579957962",
+            "name": "Kuala Lumpur International Airport",
+            "longitude": "101.70999908447"
+        },
+        {
+            "latitude": "3.1122500896453857",
+            "name": "Simpang Airport",
+            "longitude": "101.7030029296875"
+        }
+    ],
+    "requestType": "find"
+}

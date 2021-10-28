@@ -1,0 +1,28 @@
+{
+    "requestType"    : "find",
+    "match"          : "denver",
+    "type"           :["heliport"],
+    "where"          :["United States"],
+    "limit"          : ,
+    "found"          : 3,
+    "places"         : [{"name":Denver Artcc Heliport", 
+                         "latitude": "40.187198638916016", 
+                         "longitude": "-105.12699890136719",
+                         "id":"CO-99"
+                         },
+                        {"name":"Denver Federal Center Helistop", 
+                        "latitude": "39.72330093383789", 
+                        "longitude": "-105.11100006103516",
+                        "id":"C0-39"
+                        },
+                        {"name":"Denver Health Heliport", 
+                            "latitude": "39.727500915527344", 
+                            "longitude": "-104.99099731445312",
+                            "id":"C0-35"
+                        },
+                        {"name":"Denver Police Department-District 3 Heliport", 
+                            "latitude": "39.6875", 
+                            "longitude": "-104.95999908447266",
+                            "id":"CO-41"
+                        }]
+  }

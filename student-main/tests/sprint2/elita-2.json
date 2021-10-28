@@ -1,0 +1,24 @@
+
+{
+    "requestType": "find",
+    "match": "alaska",
+    "limit": 0,
+    "found": 3,
+    "places": [
+      {
+        "name": "Unalaska Airport",
+        "latitude": "53.900100708",
+        "longitude": "-166.544006348"
+      },
+      {
+        "name": "Nelsons Nitch Airport",
+        "latitude": "46.53760147",
+        "longitude": "-122.7180023"
+      },
+      {
+        "name": "Burnt Ridge Airstrip",
+        "latitude": "46.58539962768555",
+        "longitude": "-122.6259994506836"
+      },
+    ]
+}

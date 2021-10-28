@@ -1,0 +1,34 @@
+{
+	"match": "' H",
+	"limit": 0,
+	"found": 5,
+	"places": [
+		{
+			"name": "The King's Daughters' Heliport",
+			"latitude": "38.739200592041016",
+			"longitude": "-85.38159942626953"
+		},
+		{
+			"name": "Big 'G' Heliport",
+			"latitude": "38.210601806640625",
+			"longitude": "-82.60600280761719"
+		},
+		{
+			"name": "Ginny 'B' Heliport",
+			"latitude": "36.093101501464844",
+			"longitude": "-86.65470123291016"
+		},
+		{
+			"name": "Pearson Reef 'B' Helipad",
+			"latitude": "8.959083",
+			"longitude": "113.653409"
+		},
+		{
+			"name": "Utkina Zavod Helipad",
+			"latitude": "59.8685824318",
+			"longitude": "30.4858160019"
+		}
+	],
+	"requestType": "find"
+}
+ 

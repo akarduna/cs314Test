@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "11.3493",
+            "name": "Mariana Trench",
+            "longitude": "142.1996"
+        },
+        {
+            "latitude": "25.0000",
+            "name": "Bermuda Triangle",
+            "longitude": "-71.0000"
+        },
+        {
+            "latitude": "90.0000",
+            "name": "North Pole",
+            "longitude": "135.0000"
+        }
+    ],
+    "earthRadius": 6378.1,
+    "distances": [
+        14619,
+        7235,
+        8755
+    ],
+    "requestType": "distances"
+}

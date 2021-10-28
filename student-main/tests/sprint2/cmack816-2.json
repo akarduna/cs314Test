@@ -1,0 +1,89 @@
+{
+    "match": "Jerry",
+    "limit": 0,
+    "found": 9,
+    "places": [
+        {
+            "altitude": "252",
+            "iso_country": "US",
+            "latitude": "44.058333",
+            "name": "Jerry Douglass Heliport",
+            "municipality": "Lisbon",
+            "id": "20ME",
+            "longitude": "-70.098611"
+        },
+        {
+            "altitude": "1100",
+            "iso_country": "US",
+            "latitude": "34.516700744628906",
+            "name": "Jerry-Wright Airfield",
+            "municipality": "Lawton",
+            "id": "4OL3",
+            "longitude": "-98.33370208740234"
+        },
+        {
+            "altitude": "342",
+            "iso_country": "US",
+            "latitude": "37.94499969482422",
+            "name": "Jerry W. Humphrey Seaplane Base",
+            "municipality": "Newburgh",
+            "id": "IN59",
+            "longitude": "-87.42449951171875"
+        },
+        {
+            "altitude": "1434",
+            "iso_country": "US",
+            "latitude": "36.96229934692383",
+            "name": "Jerry Sumners Sr Aurora Municipal Airport",
+            "municipality": "Aurora",
+            "id": "K2H2",
+            "longitude": "-93.69529724121094"
+        },
+        {
+            "altitude": "750",
+            "iso_country": "US",
+            "latitude": "41.835899353027",
+            "name": "Jerry Tyler Memorial Airport",
+            "municipality": "Niles",
+            "id": "K3TR",
+            "longitude": "-86.225196838379"
+        },
+        {
+            "altitude": "6159",
+            "iso_country": "US",
+            "latitude": "41.15570068",
+            "name": "Cheyenne Regional Jerry Olson Field",
+            "municipality": "Cheyenne",
+            "id": "KCYS",
+            "longitude": "-104.8119965"
+        },
+        {
+            "altitude": "5940",
+            "iso_country": "US",
+            "latitude": "45.82350158691406",
+            "name": "Jerry Creek Airport",
+            "municipality": "Wise River",
+            "id": "MT14",
+            "longitude": "-112.88600158691406"
+        },
+        {
+            "altitude": "1490",
+            "iso_country": "US",
+            "latitude": "42.354801177978516",
+            "name": "Tom N\u0027 Jerry Airport",
+            "municipality": "Danby",
+            "id": "NK05",
+            "longitude": "-76.51609802246094"
+        },
+        {
+            "altitude": "340",
+            "iso_country": "US",
+            "latitude": "42.758399963378906",
+            "name": "Jerry Phibbs Airport",
+            "municipality": "Albany",
+            "id": "NK43",
+            "longitude": "-73.92459869384766"
+        }
+    ],
+    "requestType": "find"
+}

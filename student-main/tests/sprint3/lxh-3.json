@@ -1,0 +1,10 @@
+{
+	"requestType": "distances",
+	"places": [
+		{"name": "Ocean Reef Club Airport", "latitude": "25.325399398804", "longitude": "-80.274803161621"},
+		{"name": "Doral Ocean Beach Resort Heliport", "latitude": "25.825700759887695", "longitude": "-80.12120056152344"},
+		{"name": "Ocean City Municipal Airport", "latitude": "39.26350021362305", "longitude": "-74.60749816894531"}
+	],
+	"earthRadius": 6371.0,
+	"distances": [58, 1580, 1638]
+}

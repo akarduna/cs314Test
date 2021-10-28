@@ -1,0 +1,45 @@
+{
+  "requestType"    : "find",
+  "match"          : "banana",
+  "limit"          : 0,
+  "found"          : 4,
+  "places"         : [{"name":"Campo di Volo \"Banana\"", 
+                       "latitude": "45.59759", 
+                       "longitude": "12.303003",
+                       "id":"IT-0287",
+                       "altitude":"6",
+                       "municipality":"Casale sul Sile (TV)",
+                       "type":"small_airport",
+                       "region":"Veneto",
+                       "country":"Italy"
+                       },
+                      {"name":"Cassidy International Airport", 
+                       "latitude": "1.9861600399017334", 
+                       "longitude": "-157.35000610351562",
+                       "id":"PLCH",
+                       "altitude":"5",
+                       "municipality":"Banana",
+                       "type":"medium_airport",
+                       "region":"Line Islands",
+                       "country":"Kiribati"
+                       },
+                      {"name":"Banana Island Helipad", 
+                       "latitude": "25.296837", 
+                       "longitude": "51.639031",
+                       "id":"QA-0003",
+                       "type":"heliport",
+                       "region":"Ar Rayyan Municipality",
+                       "country":"Qatar"
+                       },
+                      {"name":"Bananal Airport", 
+                       "latitude": "4.632780075073242", 
+                       "longitude": "-60.585601806640625",
+                       "id":"SJYO",
+                       "altitude":"892",
+                       "municipality":"Pacaraima",
+                       "type":"small_airport",
+                       "region":"Roraima",
+                       "country":"Brazil"
+                       }
+                     ]
+}

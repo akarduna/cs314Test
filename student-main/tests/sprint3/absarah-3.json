@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "0",
+            "name": "Null Island",
+            "longitude": "0"
+        },
+        {
+            "latitude": "31.559",
+            "name": "Dead Sea",
+            "longitude": "35.473"
+        },
+        {
+            "latitude": "27.002",
+            "name": "Nile River",
+            "longitude": "31.344"
+        }
+    ],
+    "earthRadius": 3548,
+    "distances": [
+        2852,
+        359,
+        2504
+    ],
+    "requestType": "distances"
+}

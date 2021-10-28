@@ -1,0 +1,50 @@
+{
+    "places": [
+        {
+            "latitude": "38.42045813453119",
+            "name": "Spicer Reservoir Road, Calaveras County, California, United States",
+            "longitude": "-120.05691338150768"
+        },
+        {
+            "latitude": "33.81457012624205",
+            "name": "Lushi County, Sanmenxia City, Henan, China",
+            "longitude": "111.10843611041538"
+        },
+        {
+            "latitude": "46.639591978790165",
+            "name": "Whitman County, Washington, United States",
+            "longitude": "-118.11343135856488"
+        },
+        {
+            "latitude": "65.12914078579296",
+            "name": "Anadyrsky District, Chukotka Autonomous Okrug, Far Eastern Federal District, Russia",
+            "longitude": "170.87487394741947"
+        },
+        {
+            "latitude": "63.91897297689211",
+            "name": "Unorganized Borough, Alaska, United States",
+            "longitude": "-157.48896687470875"
+        },
+        {
+            "latitude": "83.85257572243427",
+            "name": "Unknown",
+            "longitude": "-13.781254291534426"
+        },
+        {
+            "latitude": "-59.42719710979363",
+            "name": "Unknown",
+            "longitude": "-3.9375042915344243"
+        }
+    ],
+    "earthRadius": 3958.999999,
+    "distances": [
+        6465,
+        6091,
+        2839,
+        934,
+        2158,
+        9905,
+        9347
+    ],
+    "requestType": "distances"
+}

@@ -1,0 +1,23 @@
+{
+    "requestType": "find",
+    "match": "Florida",
+    "limit": 0,
+    "found": 3,
+    "places": [
+      {
+        "name": "Florida",
+        "latitude": "21.49970054626465",
+        "longitude": "-78.20279693603516"
+      },
+      {
+        "name": "Central Agramonte Airport",
+        "latitude": "21.549999237060547",
+        "longitude": "-78.23332977294922"
+      },
+      {
+        "name": "Samaipata Airport",
+        "latitude": "-18.183332443237305",
+        "longitude": "-63.88333511352539"
+      }
+    ]
+}

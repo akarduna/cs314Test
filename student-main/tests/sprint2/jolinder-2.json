@@ -1,0 +1,18 @@
+{
+    "match": "Port-Au-Prince",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "latitude": "18.560800552368164",
+            "name": "Bowen Airport",
+            "longitude": "-72.32779693603516"
+        },
+        {
+            "latitude": "18.579999923706055",
+            "name": "Toussaint Louverture International Airport",
+            "longitude": "-72.2925033569336"
+        }
+    ],
+    "requestType": "find"
+}

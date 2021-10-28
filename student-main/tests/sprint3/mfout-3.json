@@ -1,0 +1,21 @@
+{
+  "places": [
+    {
+      "latitude": "43.6445",
+      "name": "Moore Airfield",
+      "longitude": "-72.087"
+    },
+    {
+      "latitude": "34.4753",
+      "name": "Topsail Airport",
+      "longitude": "-77.5814"
+    }
+  ],
+  "earthRadius": 6371.0,
+  "distances": [
+    207,
+    23,
+    606
+  ],
+  "requestType": "distances"
+}

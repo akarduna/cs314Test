@@ -1,0 +1,19 @@
+{
+  "requestType": "distances",
+  "places": [
+    {
+      "name": "Curtis Lake Lane, Larimer County, Colorado, 80535-9361, United States", 
+      "latitude": "40.67744853390015", "longitude": "-105.1258392375894",
+    },
+    {
+      "name": "Fremont County, Wyoming, United States", 
+      "latitude": "42.27629267135371", "longitude": "-107.83740241080524",
+    },  
+    {
+      "name": "Tripp County, South Dakota, United States", 
+      "latitude": "43.12083334822021", "longitude": "-100.26782216504218"
+    }
+  ],  
+      "earthRadius": 6371.0,
+      "distances": [287, 625, 485]
+}

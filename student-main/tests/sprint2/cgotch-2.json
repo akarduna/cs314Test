@@ -1,0 +1,57 @@
+{
+    "match": "carson",
+    "limit": 0,
+    "found": 7,
+    "places": [
+        {
+            "name": "Carson Heliport",
+            "latitude": "40.33340072631836",
+            "longitude": "-75.21630096435547",
+            "altitude": "415",
+            "type": "heliport"
+        },
+        {
+            "name": "Carsonville Airport",
+            "latitude": "40.49039840698242",
+            "longitude": "-76.7666015625",
+            "altitude": "800",
+            "type": "small_airport"
+        },
+        {
+            "name": "Carson Sheriff Station Heliport",
+            "latitude": "33.83420181274414",
+            "longitude": "-118.26200103759766",
+            "altitude": "17",
+            "type": "heliport"
+        },
+        {
+            "name": "Carson Airport",
+            "latitude": "39.192199707",
+            "longitude": "-119.73400116",
+            "altitude": "4697",
+            "type": "small_airport"
+        },
+        {
+            "name": "Carson Field",
+            "latitude": "48.09469985961914",
+            "longitude": "-114.85199737548828",
+            "altitude": "3550",
+            "type": "small_airport"
+        },
+        {
+            "name": "Carson-Tahoe Regional Medical Center Heliport",
+            "latitude": "39.20280075073242",
+            "longitude": "-119.78399658203125",
+            "altitude": "4850",
+            "type": "heliport"
+        },
+        {
+            "name": "Carson-Tahoe Hospital Heliport",
+            "latitude": "39.17129898071289",
+            "longitude": "-119.77200317382812",
+            "altitude": "4710",
+            "type": "heliport"
+        }
+    ],
+    "requestType": "find"
+}

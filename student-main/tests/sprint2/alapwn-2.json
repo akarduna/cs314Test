@@ -1,0 +1,19 @@
+{
+    "match": "Jona",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "altitude": "246",
+            "country": "LT",
+            "latitude": "55.0099983215332",
+            "name": "Jonava Airport",
+            "municipality": "Jonava",
+            "id": "EYRU",
+            "type": "small_airport",
+            "region": "LT-KU",
+            "longitude": "24.363300323486328"
+        }
+    ],
+    "requestType": "find"
+}

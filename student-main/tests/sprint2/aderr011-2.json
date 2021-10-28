@@ -1,0 +1,28 @@
+{
+    "match": "Alice",
+    "limit": 0,
+    "found": 4,
+    "places": [
+        {
+            "name": "Alice Arm/Silver City Seaplane Base",
+            "latitude": "55.4667015076",
+            "longitude": "-129.483001709"
+        },
+        {
+            "name": "Alice International Airport",
+            "latitude": "27.740900039699998",
+            "longitude": "-98.02690124510002"
+        },
+        {
+            "name": "Alice Maria Sampaio Ferreira Heliport",
+            "latitude": "-23.608610153198242",
+            "longitude": "-46.69416809082031"
+        },
+        {
+            "name": "Alice Springs Airport",
+            "latitude": "23.806699752807617",
+            "longitude": "133.90199279785156"
+        }
+    ],
+    "requestType": "find"
+}

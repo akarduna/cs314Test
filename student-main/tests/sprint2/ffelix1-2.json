@@ -1,0 +1,44 @@
+{
+    "match": "Tampa",
+    "limit": 0,
+    "found": 6,
+    "places": [
+        {
+            "name":"Tampa Bay Executive Airport",
+            "municipality": "New Port Richey",
+            "latitude": "28.1879997253",
+            "longitude": "-82.6256027222"
+        },
+        {
+            "name": "Tampa Executive Airport",
+            "municipality": "Tampa",
+            "latitude": "28.013999939",
+            "longitude": "-82.3452987671",
+        },
+        {
+            "name": "Tampa General Hospital Heliport",
+            "municipality": "Tampa",
+            "latitude": "27.938100814819336",
+            "longitude": "-82.45929718017578 ",
+        },
+        {
+            "name": "Tampa International Airport",
+            "municipality": "Tampa",
+            "latitude": "27.975500106811523 ",
+            "longitude": "-82.533203125",
+        },
+        {
+            "name": "Tampa North Aero Park Airport",
+            "municipality": "Tampa",
+            "latitude": "28.2213001251 ",
+            "longitude": "-82.37449646",
+        },
+        {
+            "name": "Tampa Padang Airport",
+            "municipality": "Mamuju-Celebes Island",
+            "latitude": "-2.583333",
+            "longitude": "119.033333",
+        }
+    ],
+    "requestType": "find"
+}

@@ -1,0 +1,18 @@
+{
+    "match": "mississippi",
+    "limit": 0,
+    "places": [
+        {
+            "name": "Mississippi County Airport",
+            "latitude": "36.842098236083984",
+            "longitude": "-89.35970306396484"
+        },
+        {
+            "name": "Mississippi Petrified Forest Airport",
+            "latitude": "32.52040100097656",
+            "longitude": "-90.32369995117188"
+        }
+    ],
+    "found": 2,
+    "requestType": "find"
+}

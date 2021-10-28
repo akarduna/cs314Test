@@ -1,0 +1,28 @@
+{
+    "requestType": "find",
+    "match": "Ankara",
+    "limit": 0,
+    "found": 4,
+    "places": [
+      {
+        "name": "Ak?nc? Air Base",
+        "latitude": "40.078899383499994",
+        "longitude": "32.5656013489"
+      },
+      {
+        "name": "Güvercinlik Airport",
+        "latitude": "39.9350013733",
+        "longitude": "32.7407989502"
+      },
+      {
+        "name": "Etimesgut Air Base",
+        "latitude": "39.949798584",
+        "longitude": "32.6885986328"
+      },
+      {
+        "name": "Esenbo?a International Airport",
+        "latitude": "40.128101348899996",
+        "longitude": "32.995098114"
+      }
+      ]
+}

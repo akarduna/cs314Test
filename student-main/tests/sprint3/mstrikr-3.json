@@ -1,0 +1,33 @@
+{
+	"places":[
+		{
+			"latitude":"41.8825",
+			"name":"Cloud Gate",
+			"longitude":"-87.6231"
+		},
+		{
+			"latitude":"48.1375",
+			"name":"Hofbräuhaus München",
+			"longitude":"11.5797"
+		},
+		{
+			"latitude":"-33.8567",
+			"name":"Sydney Opera House",
+			"longitude":"151.2156"
+		},
+    		{
+			"latitude":"59.9403",
+			"name":"Winter Palace",
+			"longitude":"30.3136"
+		}
+      	],
+    
+	"earthRadius": 500,
+	"distances": [
+		570,
+		1282,
+		1170,
+		578
+	],
+	"requestType": "distances"
+}

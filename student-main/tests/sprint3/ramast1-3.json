@@ -1,0 +1,12 @@
+{
+  "requestType"    : "distances",
+  "places"         : [{"name":"South Pole", "latitude":  "-90.0",  "longitude": "45.0"},
+                      {"name": "Bermuda Triangle", "latitude":  "25.0", "longitude": "71.0"},
+                      {"name": "Easter Island", "latitude":  "-27.1127", "longitude": "109.3497"},
+                      {"name": "Stanley Hotel", "latitude":  "40.3830", "longitude": "105.5190"},
+                      {"name": "Stonehenge", "latitude":  "51.1789", "longitude": "1.8262"},
+                      {"name": "Transylvania", "latitude":  "46.1841", "longitude": "-25.2224"},
+                      {"name": "North Pole", "latitude":  "90.0", "longitude": "135.0"}],
+  "earthRadius"    : 6371.0,
+  "distances"       : [12787,7104,7515,7443,2048,4872,20015]
+}

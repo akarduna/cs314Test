@@ -1,0 +1,24 @@
+{
+    "match": "xoc",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "continent": "NA",
+            "altitude": "4989",
+            "iso_country": "MX",
+            "iata_code": "OAX",
+            "latitude": "16.9999008179",
+            "municipality": "Oaxaca",
+            "index": "4736",
+            "type": "medium_airport",
+            "name": "Xoxocotlán International Airport",
+            "iso_region": "MX-OAX",
+            "id": "MMOX",
+            "gps_code": "MMOX",
+            "scheduled_service": "yes",
+            "longitude": "-96.726600647"
+        }
+    ],
+    "requestType": "find"
+}

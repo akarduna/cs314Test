@@ -1,0 +1,31 @@
+{
+    "requestType": "distances",
+    "places": [
+        {
+            "name": "Tokyo Haneda International Airport",
+            "latitude": "35.55",
+            "longitude": "139.78"
+        },
+        {
+            "name": "Tokyo Haneda International Airport",
+            "latitude": "35.55",
+            "longitude": "139.78"
+        },
+        {
+            "name": "Unknown",
+            "latitude": "-35.55",
+            "longitude": "-139.78"
+        },
+        {
+        	"name": "Addington Field",
+          	"latitude": "37.69",
+          	"longitude": "85.93",
+        }
+    ],
+    "distances": [
+        0,
+        7120,
+        2955
+    ],
+    "earthRadius": 3958
+}

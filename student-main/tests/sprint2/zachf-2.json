@@ -1,0 +1,38 @@
+{
+    "requestType": "find",
+    "match": "panda",
+    "limit": 0,
+    "found": 6,
+    "places": [
+      {
+        "name": "Capanda Airport",
+        "latitude": "-9.76937007904",
+        "longitude": "15.4553194046"
+      },
+      {
+        "name": "Pandamatenga Airport",
+        "latitude": "-18.5312",
+        "longitude": "25.6516"
+      },
+      {
+        "name": "Panda Airport",
+        "latitude": "21.147899627685547",
+        "longitude": "-157.25900268554688"
+      },
+      {
+        "name": "Mpanda Airport",
+        "latitude": "-6.355374",
+        "longitude": "31.084116"
+      },
+      {
+        "name": "Pandaan Helipad",
+        "latitude": "-7.7683326",
+        "longitude": "112.7391373"
+      },
+      {
+        "name": "Pandaveswar Airfield",
+        "latitude": "23.641300520900003",
+        "longitude": "87.348690033"
+      }
+    ]
+}

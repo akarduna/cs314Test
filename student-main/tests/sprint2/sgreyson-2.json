@@ -1,0 +1,20 @@
+{
+    "match": "Dulles",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "name": "Washington Dulles International Airport",
+            "altitude": "312",
+            "wikipedia_link": "http://en.wikipedia.org/wiki/Washington_Dulles_International_Airport",
+            "municipality": "Washington",
+            "longitude": "-77.45580292",
+            "country": "United States",
+            "type": "large_airport",
+            "region": "District of Columbia",
+            "latitude": "38.94449997",
+            "id": "KIAD"
+        }
+    ],
+    "requestType": "find"
+}

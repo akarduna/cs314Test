@@ -1,0 +1,26 @@
+{
+    "earthRadius": 6378.137,
+    "places": [
+        {
+            "latitude": "40.57",
+            "name": "Lot 425",
+            "longitude": "-105.09"
+        },
+        {
+            "latitude": "30.07",
+            "name": "264A",
+            "longitude": "31.19"
+        },
+        {
+            "latitude": "-22.95",
+            "name": "Estrada do Sumaré",
+            "longitude": "-43.23"
+        }
+    ],
+    "distances": [
+        10974,
+        9899,
+        9531
+    ],
+    "requestType": "distances"
+}

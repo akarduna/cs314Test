@@ -1,0 +1,38 @@
+{
+    "places": [
+        { 
+            "latitude": "39.861698",
+            "name": "Denver International Airport",
+            "longitude": "-104.672997"
+        },
+        {
+            "latitude": "39.776188",
+            "name": "Aviosuperficie Scalea",
+            "longitude": "15.811343"
+        },
+        {
+            "latitude": "39.776188",
+            "name": "Aviosuperficie Scalea",
+            "longitude": "15.811343"
+        },
+        {
+            "latitude": "-43.810001",
+            "name": "Chatham Islands-Tuuta Airport",
+            "longitude": "-176.457001"
+        },
+        {
+            "latitude": "39.966702",
+            "name": "Stevens Airport",
+            "longitude": "-104.651001"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        9294,
+        0,
+        18892,
+        117455,
+        12
+    ],
+    "requestType": "distances"
+}

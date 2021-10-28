@@ -1,0 +1,136 @@
+[
+  {"id": "daives", "name": "Birra Korca", "municipality": "Korce", "country": "Albania", "latitude": "40.6112119", "longitude": "20.7906588", "altitude": "2812"}
+  ,{"id": "coleb10", "name": "Cerveza Boris Craft Beer", "municipality": "La Cortinada", "country": "Andorra", "latitude": "42.57257", "longitude": "1.51975", "altitude": "4376"}
+  ,{"id": "pjackim", "name": "N’gola Beer Company", "municipality": "Lubango", "country": "Angola", "latitude": "-14.890750", "longitude": "13.465564", "altitude": "6118"}
+  ,{"id": "olivia4", "name": "Divaricata Brewery", "municipality": "Mendoza", "country": "Argentina", "latitude": "-32.873150", "longitude": "-68.827650", "altitude": "2438"}
+  ,{"id": "bjurenka", "name": "Two Birds Brewing", "municipality": "Victoria", "country": "Australia", "latitude": "-37.8346", "longitude": "144.8853", "altitude": "42"}
+  ,{"id": "ffelix1", "name": "10 Toes Brewery", "municipality": "Alexandra Headland", "country": "Australia", "latitude": "-26.6721744", "longitude": "153.0962013", "altitude": "42"}
+  ,{"id": "shayag", "name": "Brauerei Schloss Eggenberg", "municipality": "Vorchdorf", "country": "Austria", "latitude": "47.98996", "longitude": "13.92293", "altitude": "1358"}
+  ,{"id": "cytoniv", "name": "Baki-Praqa", "municipality": "Novxani", "country": "Azerbaijan", "latitude": "40.52450", "longitude": "49.79675", "altitude": "124"}
+  ,{"id": "ryost", "name": "Pirate Republic Brewing", "municipality": "Nassau", "country": "Bahamas", "latitude": "25.077548", "longitude": "-77.340803", "altitude": "37"}
+  ,{"id": "cgotch", "name": "Alcoholy Bar", "municipality": "Minsk", "country": "Belarus", "latitude": "53.90215", "longitude": "27.55484", "altitude": "675"}
+  ,{"id": "davematt", "name": "Delirium Cafe", "municipality": "Bruxelles", "country": "Belgium", "latitude": "50.848462", "longitude": "4.353891", "altitude": "277"}
+  ,{"id": "pragjnab", "name": "Belize Brewing Company", "municipality": "Ladyville", "country": "Belize", "latitude": "17.543505", "longitude": "-88.300700", "altitude": "28"}
+  ,{"id": "mayavit", "name": "Santa Cruz Beer Company", "municipality": "Santa Cruz de la Sierra", "country": "Bolivia", "latitude": "-17.76403", "longitude": "-63.17491", "altitude": "1348"}
+  ,{"id": "jolinder", "name": "Big Sip Co", "municipality": "Gaborone", "country": "Botswana", "latitude":"-24.622438250058796", "longitude": "25.916473352285433", "altitude": "3307"}
+  ,{"id": "joaop", "name": "Capone Craft Beer Company", "municipality": "Sao Paulo", "country": "Brazil", "latitude": "-23.571280", "longitude": "-46.632521", "altitude": "2536"}
+  ,{"id": "mespy50", "name": "Metalhead Brewery", "municipality": "Burgas", "country": "Bulgaria", "latitude": "42.6118979", "longitude": "27.3965153", "altitude": "148"}
+  ,{"id": "hayleyr", "name": "Stone Head Craft Thai Craft Beer", "municipality": "Koh Rong", "country": "Cambodia", "latitude": "11.6125", "longitude": "102.991389", "altitude": "23"}
+  ,{"id": "alapwn", "name": "All or Nothing Brewhouse", "municipality": "Ontario", "country": "Canada", "latitude": "43.888420", "longitude": "-78.8946620", "altitude": "312"}
+  ,{"id": "puttputt", "name": "Storm Brewing LTD", "municipality": "Vancouver", "country": "Canada", "latitude": "49.281", "longitude": "-123.070", "altitude": "23"}
+  ,{"id": "rachilya", "name": "Brasseries du Tchad", "municipality": "Moundou", "country": "Chad", "latitude": "8.550980", "longitude": "16.073309", "altitude": "1315"}
+  ,{"id": "nfkamp", "name": "Altamira", "municipality": "Valparaiso", "country": "Chile", "latitude": "33.044022", "longitude": "-71.626177", "altitude": "133"}
+  ,{"id": "ahantke", "name": "Brew Spot", "municipality": "Jiangsu", "country": "China", "latitude": "31.5576121", "longitude": "120.2798873", "altitude": "26"}
+  ,{"id": "amirr23", "name": "Bogota Beer Company", "municipality": "Bogota", "country": "Colombia", "latitude": "4.616790", "longitude": "-74.066240", "altitude": "8629"}
+  ,{"id": "lgr9611", "name": "Brasserie Du Congo", "municipality": "Brazzaville", "country": "Congo", "latitude": "4.1525", "longitude": "15.1744", "altitude": "925"}
+  ,{"id": "mcahill1", "name": "Lake Arenal Brewery", "municipality": "Tilaran", "country": "Costa Rica", "latitude": "10.5224732", "longitude": "-84.9669792", "altitude": "2119"}
+  ,{"id": "aderr011", "name": "L.A.B. Split Craft Brewery", "municipality": "Split", "country": "Croatia", "latitude": "43.526919", "longitude": "16.448321", "altitude": "16"}
+  ,{"id": "kbuckey", "name": "Cerveceria Tinima", "municipality": "Camagüey", "country": "Cuba", "latitude": "21.420665", "longitude": "-77.906770", "altitude": "385"}
+  ,{"id": "lcadman", "name": "Curacao Brewing Company", "municipality": "Willemstad", "country": "Curacao", "latitude": "12.123876", "longitude": "68.876381", "altitude": "139"}
+  ,{"id": "isnyder", "name": "Hop Thirsty Friends", "municipality": "Dali", "country": "Cyprus", "latitude": "35.057644", "longitude": "33.393942", "altitude": "747"}
+  ,{"id": "holmesaw", "name": "Staropramen Brewery", "municipality": "Prague", "country": "Czech Republic", "latitude": "50.06959", "longitude": "14.40753", "altitude": "623"}
+  ,{"id": "jeydnb", "name": "Bralima", "municipality": "Kinshasa", "country": "Democratic Republic of the Congo", "latitude": "4.307323", "longitude": "15.325951", "altitude": "899"}
+  ,{"id": "mdees15", "name": "Nørrebro Bryghus", "municipality": "Copenhagen", "country": "Denmark", "latitude": "55.690120", "longitude": "12.563740", "altitude": "21"}
+  ,{"id": "ryterski", "name": "Cerveceria Punta Cana", "municipality": "Punta Cana", "country": "Dominican Republic", "latitude": "18.58182", "longitude": "-68.40431", "altitude": "40"}
+  ,{"id": "dpohl", "name": "Heineken Timor Leste", "municipality": "Heineken", "country": "East Timor", "latitude": "-8.5535314", "longitude": "125.54182536", "altitude": "52"}
+  ,{"id": "jacc", "name": "Al Ahram Beverages", "municipality": "Obour", "country": "Egypt", "latitude": "30.201042", "longitude": "31.440228", "altitude": "249"} 
+  ,{"id" : "csdietz", "name": "Cadejo Brewing Company", "municipality" : "San Salvador", "country": "El Salvador", "latitude": "13.693563", "longitude": "-89.235393", "altitude": "2159"}
+  ,{"id": "beefman", "name": "Ostlers Ales Ltd", "municipality": "Birmingham", "country": "England", "latitude": "52.48669", "longitude": "-1.89705", "altitude": "404"}
+  ,{"id": "mlopez18", "name": "Pillars Brewery", "municipality": "London", "country": "England", "latitude": "51.583611", "longitude": "0.008333", "altitude": "121"}
+  ,{"id": "ccluett", "name": "Põhjala", "municipality": "Tallinn", "country": "Estonia", "latitude": "59.450303", "longitude": "24.726976", "altitude": "43"}
+  ,{"id": "nkowalcz", "name": "Dashen Brewery", "municipality": "Gondar", "country": "Ethiopia", "latitude": "12.576667", "longitude": "37.435", "altitude": "6896"}
+  ,{"id": "normanaa", "name": "Kailoma Brewing Co.", "municipality": "Komave", "country": "Fiji", "latitude": "-18.22526", "longitude": "177.77352", "altitude": "0"}
+  ,{"id": "farsi99", "name": "Saimaa Brewing Company", "municipality": "Mikkeli", "country": "Finland", "latitude": "61.693058", "longitude": "27.220853", "altitude": "328"}
+  ,{"id": "bcates", "name": "Brasserie L'Excuse", "municipality": "Mauvezin", "country": "France", "latitude": "43.725278", "longitude": "0.885556", "altitude": "564"}
+  ,{"id": "npuri", "name": "La brasserie de Tahiti", "municipality": "Tahiti", "country": "French Polynesia", "latitude": "16.49221", "longitude": "-151.75039", "altitude": "60"}
+  ,{"id": "grovee", "name": "Brewery Alani", "municipality": "Tbilisi", "country": "Georgia", "latitude": "41.689619", "longitude": "44.809917", "altitude": "1991"}
+  ,{"id": "trostrn", "name": "Ballhaus Watzke", "municipality": "Dresden", "country": "Germany", "latitude": "51.07750", "longitude": "13.71581", "altitude": "371"}
+  ,{"id": "depazdj", "name": "Bavarian State Brewery Weihenstephan", "municipality": "Freising", "country": "Germany", "latitude": "48.395556", "longitude": "11.728611", "altitude": "1470"}
+  ,{"id": "joshbmr", "name": "Mykonos Brewing Company", "municipality": "Mikonos", "country": "Greece", "latitude": "37.447173", "longitude": "25.344376", "altitude": "302"}
+  ,{"id": "abarth11", "name": "Godthab Bryghus", "municipality": "Nuuk", "country": "Greenland", "latitude": "64.174722", "longitude": "-51.737778", "altitude": "9"}
+  ,{"id": "sethgene", "name": "West Indies Beer Company", "municipality": "Lance aux Epines", "country": "Grenada", "latitude": "12.00659", "longitude": "-61.75857", "altitude": "55"} 
+  ,{"id": "carnhy", "name": "Quetzal Brewing Company", "municipality": "Guatemala City", "country": "Guatemala", "latitude": "14.556889", "longitude": "-90.4603589", "altitude": "6047"}
+  ,{"id": "nws", "name": "Guerrilla Nano-Brewery", "municipality": "Georgetown", "country": "Guyana", "latitude": "6.807671", "longitude": "-58.136824", "altitude": "11"}
+  ,{"id": "gmyzer", "name": "Braportau S.A", "municipality": "Port-au-Prince", "country": "Haiti", "latitude":"18.353602", "longitude": "-72.163412", "altitude": "101"}
+  ,{"id": "vanhook", "name": "Gravity Brewing", "municipality": "Budapest", "country": "Hungary", "latitude":"47.485936", "longitude": "19.062169", "altitude": "338"}
+  ,{"id": "kaiyan", "name": "Ölvisholt Brewery", "municipality": "Selfoss", "country": "Iceland", "latitude": "63.962443", "longitude": "-20.771973", "altitude": "131"}
+  ,{"id": "ojaswi", "name": "Arbor Brewing Company", "municipality": "Karnataka", "country": "India", "latitude": "12.97031", "longitude": "77.61098", "altitude": "2963"}
+  ,{"id": "jcao7", "name": "Stark Beer Brewery", "municipality": "Bali", "country": "Indonesia", "latitude": "-8.1146", "longitude": "115.13921", "altitude": "1204"}
+  ,{"id": "sabdulm", "name": "Galway Bay Brewery", "municipality": "Galway", "country": "Ireland", "latitude": "53.334760", "longitude": "-9.379020", "altitude": "326"}
+  ,{"id": "maxbaron", "name": "Golan Brewery", "municipality": "Katzrin", "country": "Israel", "latitude": "32.987329", "longitude": "35.706553", "altitude": "359"}
+  ,{"id": "absarah", "name": "Archea Brewery", "municipality": "Florence", "country": "Italy", "latitude": "43.76857297", "longitude": "11.24576308", "altitude": "190"}
+  ,{"id": "hinzan", "name": "SOLIBRA Ci", "municipality": "Abidjan", "country": "Ivory Coast", "latitude": "5.299558", "longitude": "3.995165", "altitude": "12"}
+  ,{"id": "gwill", "name": "Razz Breweries Jamaica Ltd", "municipality": "Kingston", "country": "Jamaica", "latitude": "17.581528", "longitude": "-76.478724", "altitude": "20"}
+  ,{"id": "tannerjm", "name": "Kawaguchi Brewery", "municipality": "Kawaguci", "country": "Japan", "latitude": "35.805212", "longitude": "139.719532", "altitude": "139"}
+  ,{"id": "retrope13", "name": "Harada Sake Brewery", "municipality": "Takayama", "country": "Japan", "latitude": "36.140673", "longitude": "137.259289", "altitude": "1910"}
+  ,{"id": "jcbradle", "name": "Shymkentpivo", "municipality": "Shymkent", "country": "Kazakhstan", "latitude": "42.330904", "longitude": "69.645539", "altitude": "1866"}
+  ,{"id": "jmismas", "name": "Bila Shaka Breweries", "municipality": "Nairobi", "country": "Kenya", "latitude": "-1.198282", "longitude": "36.757716", "altitude": "5879"}
+  ,{"id": "caspian", "name": "The Brewery Kuwait", "municipality": "Al Kuwayt", "country": "Kuwait", "latitude": "29.370595", "longitude": "47.9781685", "altitude": "26"}
+  ,{"id": "ramast1", "name": "Lao Brewery Company Ltd", "municipality": "Vientiane", "country": "Laos", "latitude": "17.8720744", "longitude": "102.6564297", "altitude": "571"}
+  ,{"id": "adeverau", "name": "Labietis", "municipality": "Riga", "country": "Latvia", "latitude": "56.965000", "longitude": "24.130278", "altitude": "29"}
+  ,{"id": "zachf", "name": "PrinzenBrau AG", "municipality": "Balzers", "country": "Liechtenstein", "latitude": "47.071850", "longitude": "9.508160", "altitude": "1549"}
+  ,{"id": "jachyatt", "name": "Rinkuskiai Brewery", "municipality": "Birzai", "country": "Lithuania", "latitude": "56.2077687", "longitude": "24.7233716", "altitude": "170"}
+  ,{"id": "dsmcc", "name": "Grand Brewing Luxembourg", "municipality": "Luxembourg", "country": "Luxembourg", "latitude": "49.632177", "longitude": "6.167095", "altitude": "1144"}
+  ,{"id": "lmkerr", "name": "Red Island Brewing", "municipality": "Antananarivo", "country": "Madagascar", "latitude": "-18.909868", "longitude": "47.523457", "altitude": "4150"}
+  ,{"id": "alwarith", "name": "Carlsberg Brewery Malaysia Bhd", "municipality": "Johor Bahru", "country": "Malaysia", "latitude": "1.530776", "longitude": "103.806546", "altitude": "60"}
+  ,{"id": "kfinger", "name": "Lord Chambray Brewery", "municipality": "Xewkija", "country": "Malta", "latitude": "36.036054", "longitude": "14.261630", "altitude": "311"}
+  ,{"id": "guz339", "name": "Los Muertos Brewing", "municipality": "Jalisco", "country": "Mexico", "latitude": "20.60440", "longitude": "-105.23486", "altitude": "5090"}
+  ,{"id": "keeler", "name": "Brasserie de Monaco", "municipality": "Monaco", "country": "Monaco", "latitude": "43.734148", "longitude": "7.421119", "altitude": "37"}
+  ,{"id": "dreamfox", "name": "Chinggis Club", "municipality": "Ulaanbaatar", "country": "Mongolia", "latitude": "47.9265707910986", "longitude": "106.91452582890341", "altitude": "4271"}
+  ,{"id": "jritz11", "name": "The House Pub", "municipality": "Nikšić", "country": "Montenegro", "latitude": "42.85540", "longitude": "18.96970", "altitude": "2090"}
+  ,{"id": "dylan14", "name": "Le Loft", "municipality": "Marrakech", "country": "Morocco", "latitude": "31.63474", "longitude": "-8.01322", "altitude": "1350"}
+  ,{"id": "pwaldie", "name": "Mandalay Brewery", "municipality": "Mandalay", "country": "Myanmar", "latitude": "22.01255", "longitude": "96.08785", "altitude": "249"}
+  ,{"id": "rjnewby", "name": "Namib Dunes Craft Brewery", "municipality": "Swakopmund", "country": "Namibia", "latitude": "22.674432", "longitude": "14.544731", "altitude": "167"}
+  ,{"id": "blosche", "name": "Reef Bar", "municipality": "Nauru", "country": "Nauru", "latitude": "-0.5421177", "longitude": "166.9502925", "altitude": "16"}
+  ,{"id": "bilprice", "name": "Mt.Everest Brewery", "municipality": "Kathmandu", "country": "Nepal", "latitude": "27.70191", "longitude": "85.32125", "altitude": "4242"}
+  ,{"id": "evrose54", "name": "Oedipus Brewing", "municipality": "Amsterdam", "country": "Netherlands", "latitude": "52.383811", "longitude": "4.920928", "altitude": "0"}
+  ,{"id": "eide1992", "name": "Garage Project", "municipality": "Wellington", "country": "New Zealand", "latitude": "-41.295169", "longitude": "174.767675", "altitude": "114"}
+  ,{"id": "trothert", "name": "San Juan del Sur Cerveceria", "municipality": "San Juan del Sur", "country": "Nicaragua", "latitude": "11.25385", "longitude": "-85.87020", "altitude": "35"}
+  ,{"id": "mstrikr", "name": "International Breweries PLC", "municipality": "Sagamu", "country": "Nigeria", "latitude": "6.831111", "longitude": "3.631667", "altitude": "112"}
+  ,{"id": "esutko", "name": "Whitewater Brewing Co", "municipality": "Castlewellan", "country": "Northern Ireland", "latitude": "54.2672673", "longitude": "-5.9250613", "altitude": "131"}
+  ,{"id": "ernman", "name": "Taedonggang Beer Brewery", "municipality": "Pyongyang", "country": "North Korea", "latitude": "38.993371", "longitude": "125.807907", "altitude": "69"}
+  ,{"id": "garretp", "name": "Lervig Brewery", "municipality": "Stavanger", "country": "Norway", "latitude": "58.945697", "longitude": "5.745836", "altitude": "105"}
+  ,{"id": "codak", "name": "Red Rooster Brewing", "municipality": "Koror", "country": "Palau", "latitude": "7.333634", "longitude": "134.456496", "altitude": "6"}
+  ,{"id": "daknis", "name": "Bocas Brewery", "municipality": "Bocas del Toro Town", "country": "Panama", "latitude": "9.336471", "longitude": "-82.240750", "altitude": "10"}
+  ,{"id": "ntorraca", "name": "Lima Brew", "municipality": "Lima", "country": "Peru", "latitude": "-12.0248", "longitude": "-77.0143", "altitude": "542"}
+  ,{"id": "samsonmn", "name": "Nuevo Mundo Cerveceria", "municipality": "Surquillo", "country": "Peru", "latitude": "-12.108342", "longitude": "-77.017462", "altitude": "380"}
+  ,{"id": "crish", "name": "Turning Wheels Craft Brewery", "municipality": "Cebu City", "country": "Philippines", "latitude": "10.3207272", "longitude": "123.9131961", "altitude": "22"}
+  ,{"id": "mfout", "name": "South Pacific Brewery", "municipality": "Lae", "country": "Papua New Guinea", "latitude": "6.7396", "longitude": "146.9960", "altitude": "18"}
+  ,{"id": "kroskykb", "name": "Browar Pinta", "municipality": "Wieprz", "country": "Poland", "latitude": "49.6492545", "longitude": "19.17255965", "altitude": "1204"}
+  ,{"id": "sonudilp", "name": "Algarve Rock Brewery", "municipality": "Faro", "country": "Portugal", "latitude": "37.060340", "longitude": "-7.969128", "altitude": "55"}
+  ,{"id": "bmbright", "name": "Hophead Brewing", "municipality": "Cluj-Napoca", "country": "Romainia", "latitude": "46.782349", "longitude": "23.662562", "altitude": "327"}
+  ,{"id": "etham", "name": "Zagovor Brewery", "municipality": "Mystishchi", "country": "Russia", "latitude": "55.932090", "longitude": "37.770791", "altitude": "505"}
+  ,{"id": "darinh", "name": "Thai Asia Pacific Brewery", "municipality": "Nonthaburi", "country": "Thailand", "latitude": "14.083627", "longitude": "100.310049", "altitude": "19"}
+  ,{"id": "annierud", "name": "Antillia Brewing Company", "municipality": "Castries", "country": "Saint Lucia", "latitude": "14.0148818", "longitude": "-60.9952171", "altitude": "33"}
+  ,{"id": "scalfjm", "name": "Taula Beverages", "municipality": "Siusega", "country": "Samoa", "latitude": "-13.8434022", "longitude": "-171.8255466", "altitude": "400"}
+  ,{"id": "cmack816", "name": "Applecross Inn", "municipality": "Applewood", "country": "Scotland", "latitude": "57.43274", "longitude": "-5.81594", "altitude": "25"}
+  ,{"id": "fargah1", "name": "Pink Blossoms Brewing", "municipality": "Tampines", "country": "Singapore", "latitude": "1.332171", "longitude": "103.895819", "altitude": "72"}
+  ,{"id": "anupkh", "name": "Apatin Brewery", "municipality": "Apatin", "country": "Serbia", "latitude": "45.672792", "longitude": "18.975234", "altitude": "285"}
+  ,{"id": "elita", "name": "Dunajsky Pivovar", "municipality": "Bratislava-Pertzalka", "country": "Slovakia", "latitude": "48.137720408694335", "longitude": "17.112811961375286", "altitude": "433"}
+  ,{"id": "sgreyson", "name": "Woodstock Brewery", "municipality": "Cape Town", "country": "South Africa", "latitude": "-33.927495", "longitude": "18.453664", "altitude": "64"}
+  ,{"id": "mcr914", "name": "Wild Wave Brewing Co.", "municipality": "Busan", "country": "South Korea", "latitude": "35.1115", "longitude": "129.1213", "altitude": "13"}
+  ,{"id": "lxh", "name": "Magpie Brewing Co.", "municipality": "Seoul", "country": "South Korea", "latitude": "37.539475", "longitude": "126.987467", "altitude": "99"}
+  ,{"id": "mjmccann", "name": "Freddo Fox", "municipality": "Barcelona", "country": "Spain", "latitude": "41.394182714140165", "longitude": "2.193044999030413", "altitude": "7"}
+  ,{"id": "asterix", "name": "Thunderbolt Craft Brewery", "municipality": "Mahlanya", "country": "Swaziland", "latitude": "26.497266", "longitude": "31.247460", "altitude": "2407"}
+  ,{"id": "tjhollan", "name": "Krönleins Bryggeri", "municipality": "Halmstad", "country": "Sweden", "latitude": "56.675279", "longitude": "12.857490", "altitude": "20"}
+  ,{"id": "dbutcher", "name": "Samarkand-Praga-Pivo", "municipality": "Samarkand", "country":"Uzbekistan", "latitude": "39.650832", "longitude": "66.949136", "altitude": "2299"}
+  ,{"id": "tmanb", "name": "Entlebucher Bier AG", "municipality": "Entlebuch", "country": "Switzerland", "latitude": "47.0209", "longitude": "8.0774", "altitude": "2390"}
+  ,{"id": "akilbo", "name": "Arados Beer", "municipality": "Safita", "country": "Syria", "latitude": "34.883", "longitude": "35.883", "altitude": "29"}
+  ,{"id": "devinwu2", "name": "North Taiwan Brewing", "municipality": "Taoyuan City", "country": "Taiwan", "latitude": "25.0764", "longitude": "121.1862", "altitude": "30"}
+  ,{"id": "wellsja", "name": "Twiga Brewery", "municipality": "Arusha", "country": "Tanzania", "latitude": "-3.378430", "longitude": "36.655742", "altitude": "4469"}
+  ,{"id": "pritche", "name": "Brasserie BB Lomé SA", "municipality": "Lomé", "country": "Togo", "latitude": "6.21", "longitude": "1.2075", "altitude": "108"}
+  ,{"id": "ewest01", "name": "Pacific Brewing", "municipality": "Nuku'alofa", "country": "Tonga",  "latitude": "-21.154292", "longitude": "175.181586", "altitude": "25"}
+  ,{"id": "rpcme", "name": "Akgala (Gonur)", "municipality": "Goňur", "country": "Turkmenistan", "latitude": "37.6374206", "longitude": "61.96011175", "altitude": "748"}
+  ,{"id": "iliyan", "name": "Trokya", "municipality": "Edirne", "country": "Turkey", "latitude": "26.5557", "longitude": "41.6771", "altitude": "3061"}
+  ,{"id": "dylan2", "name": "Uganda Breweries Limited", "municipality": "Kampala", "country": "Uganda", "latitude": "0.293561", "longitude": "32.653221", "altitude": "3762"}
+  ,{"id": "chrismha", "name": "Varvar Brew", "municipality": "Kyiv", "country": "Ukraine", "latitude": "50.472241", "longitude": "30.595094", "altitude": "0"}
+  ,{"id": "MDBoone", "name": "Aujan Industries Company", "municipality": "Dubai", "country": "United Arab Emirates", "latitude": "24.9768", "longitude": "55.1651", "altitude": "32"}
+  ,{"id": "nickiscool01", "name": "Black Isle Brewing Co", "municipality": "Munlochy", "country": "United Kingdom", "latitude": "57.533840", "longitude": "-4.296220", "altitude": "432"}
+  ,{"id": "daleym98", "name": "Unity Brewing Co", "municipality": "Southampton", "country": "United Kingdom", "latitude": "50.91203135","longitude": "-1.38656686", "altitude": "29"}
+  ,{"id": "brockli", "name": "Vanuatu Brewing Limited", "municipality": "Port Vila", "country": "Vanuatu", "latitude": "-17.736490", "longitude": "168.314730", "altitude": "53"}
+  ,{"id": "awedel", "name": "Cerveceria Benitz", "municipality": "Colonia Tovar", "country": "Venezuela", "latitude": "10.4033591", "longitude": "-67.2885983", "altitude": "6122"}
+  ,{"id": "ruzuzu", "name": "East West Brewing Co", "municipality": "Ho Chi Minh City", "country": "Vietnam", "latitude": "10.773077", "longitude": "106.696140", "altitude": "18"}
+  ,{"id": "bginna", "name": "Felinfoel Brewery", "municipality": "Llanelli", "country": "Wales", "latitude": "51.697642", "longitude": "-4.146578", "altitude": "108"}
+  ,{"id": "pmavrako", "name": "Zambian Breweries", "municipality": "Mungwi", "country": "Zambia", "latitude": "-15.397004", "longitude": "28.259635", "altitude": "4186"}
+  ,{"id": "apappas", "name": "The River Brewing Company", "municipality": "Victoria Falls", "country": "Zimbabwe", "latitude": "-17.92651", "longitude": "25.84086", "altitude": "3235"}
+] 

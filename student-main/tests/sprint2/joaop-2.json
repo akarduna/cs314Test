@@ -1,0 +1,113 @@
+{
+    "match": "São Paulo",
+    "limit": 0,
+    "places": [
+        {
+            "latitude": "-23.648889541625977",
+            "name": "Centro Empresarial de São Paulo Heliport",
+            "longitude": "-46.72944259643555"
+        },
+        {
+            "latitude": "-23.593889236450195",
+            "name": "Edifício São Paulo Trade Building Heliport",
+            "longitude": "-46.68888854980469"
+        },
+        {
+            "latitude": "-15.140000343322754",
+            "name": "Fazenda São Paulo - Retiro Santa Maria Airport",
+            "longitude": "-51.25444412231445"
+        },
+        {
+            "latitude": "-20.155555725097656",
+            "name": "Fazenda São Paulo Airport",
+            "longitude": "-49.934722900390625"
+        },
+        {
+            "latitude": "-22.952777862548828",
+            "name": "Fazenda São Paulo Airport",
+            "longitude": "-54.845279693603516"
+        },
+        {
+            "latitude": "-13.610278129577637",
+            "name": "Fazenda São Paulo Airport",
+            "longitude": "-58.56916809082031"
+        },
+        {
+            "latitude": "-20.864166259765625",
+            "name": "Fazenda São Paulo Airport",
+            "longitude": "-52.174720764160156"
+        },
+        {
+            "latitude": "-14.976388931274414",
+            "name": "Fazenda São Paulo Airport",
+            "longitude": "-51.33555603027344"
+        },
+        {
+            "latitude": "-23.270871",
+            "name": "Fazenda São Paulo dos Palmares Airport",
+            "longitude": "-49.546115"
+        },
+        {
+            "latitude": "-23.558332443237305",
+            "name": "Federação do Comércio do Estado de São Paulo Heliport",
+            "longitude": "-46.6522216796875"
+        },
+        {
+            "latitude": "-23.537778854370117",
+            "name": "Folha de São Paulo Heliport",
+            "longitude": "-46.64583206176758"
+        },
+        {
+            "latitude": "-23.5222225189",
+            "name": "Forum Trabalhista de 1ª Instância de São Paulo I Heliport",
+            "longitude": "-46.6611099243"
+        },
+        {
+            "latitude": "-23.5222225189",
+            "name": "Forum Trabalhista de 1ª Instância de São Paulo II Heliport",
+            "longitude": "-46.6616668701"
+        },
+        {
+            "latitude": "-23.4557270361",
+            "name": "Guarulhos - Sao Paulo Airport Marriott Heliport",
+            "longitude": "-46.4917990565"
+        },
+        {
+            "latitude": "-23.632221221923828",
+            "name": "Meliá Confort São Paulo Heliport",
+            "longitude": "-46.70777893066406"
+        },
+        {
+            "latitude": "-13.436944007873535",
+            "name": "Morro de São Paulo Airport",
+            "longitude": "-38.92250061035156"
+        },
+        {
+            "latitude": "-23.512222290039062",
+            "name": "O Estado de São Paulo Heliport",
+            "longitude": "-46.670833587646484"
+        },
+        {
+            "latitude": "-17.012778",
+            "name": "São Paulo do Piauí Airport",
+            "longitude": "-39.179722"
+        },
+        {
+            "latitude": "-23.592777252197266",
+            "name": "Sofitel São Paulo Heliport",
+            "longitude": "-46.649723052978516"
+        },
+        {
+            "latitude": "-23.53583335876465",
+            "name": "UNICID - Universidade Cidade de São Paulo Heliport",
+            "longitude": "-46.559165954589844"
+        },
+        {
+            "latitude": "-22.696742",
+            "name": "Vila São Paulo/Mercosul Heliport",
+            "longitude": "-51.332565"
+        }
+    ],
+    "found": 21,
+    "requestType": "find"
+}

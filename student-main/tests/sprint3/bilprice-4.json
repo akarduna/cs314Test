@@ -1,0 +1,26 @@
+{
+    "earthRadius": 3958.0,
+    "places": [
+        {
+			"latitude" : "50.0",
+			"longitude" : "95.0"
+		},
+		{
+            "latitude": "40.5764155057189",
+            "longitude": "-105.08068370792901"
+        },
+        {
+            "latitude": "43.03262618503439",
+            "longitude": "-87.92083740234375"
+        },
+        {
+            "latitude": "49.206884391421895",
+            "longitude": "-94.8128285141785"
+        },
+		{
+			"latitude": "50.0",
+			"longitude": "95.0"
+		}
+    ],
+    "requestType": "distances"
+}

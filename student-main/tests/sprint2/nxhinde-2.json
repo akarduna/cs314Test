@@ -1,0 +1,78 @@
+{
+  "match": "nick",
+  "limit": 0,
+  "found": 10,
+  "places": [
+    {
+      "name": "Nick's Flying Service Inc Airport",
+      "latitude": "32.939601",
+      "longitude": "-90.837303",
+      "altitude": "100",
+      "type": "small_airport"
+    },
+    {
+      "name": "Vandersnick Airport",
+      "latitude": "42.155601",
+      "longitude": "-98.500396",
+      "altitude": "1990",
+      "type": "small_airport"
+    },
+    {
+      "name": "Nicks Landing Airport",
+      "latitude": "48.455001",
+      "longitude": "-103.879997",
+      "altitude": "2440",
+      "type": "small_airport"
+    },
+    {
+      "name": "Earl Barnickel Airport",
+      "latitude": "41.674999",
+      "longitude": "-89.116798",
+      "altitude": "929",
+      "type": "small_airport"
+    },
+    {
+      "name": "John D Rennick Airport",
+      "latitude": "40.867298",
+      "longitude": "-89.453102",
+      "altitude": "450",
+      "type": "small_airport"
+    },
+    {
+      "name": "Joseph Y Resnick Airport",
+      "latitude": "41.727901",
+      "longitude": "-74.377403",
+      "altitude": "292",
+      "type": "small_airport"
+    },
+    {
+      "name": "Grobnicko Polje Airport",
+      "latitude": "45.379501",
+      "longitude": "14.503800",
+      "altitude": "951",
+      "type": "small_airport"
+    },
+    {
+      "name": "Nieuw Nickerie Airport",
+      "latitude": "5.955560",
+      "longitude": "-57.039398",
+      "altitude": "9",
+      "type": "small_airport"
+    },
+    {
+      "name": "Minnick's Heliport",
+      "latitude": "38.570899",
+      "longitude": "-82.062400",
+      "altitude": "830",
+      "type": "heliport"
+    },
+    {
+      "name": "Darnick Airport",
+      "latitude": "-32.883300",
+      "longitude": "143.582992",
+      "altitude": "NULL",
+      "type": "small_airport"
+    }
+  ],
+  "requestType": "find"
+}

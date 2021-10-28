@@ -1,0 +1,50 @@
+{
+    "match": "--",
+    "limit": 0,
+    "found": 3,
+    "places": [
+        {
+            "continent": "EU",
+            "altitude": "6827",
+            "iso_country": "FR",
+            "latitude": "44.13972091674805",
+            "municipality": "Thorame-Haute",
+            "index": "43647",
+            "type": "small_airport",
+            "name": "Thorame--Haute Chamatte Airport",
+            "iso_region": "FR-U",
+            "id": "FR-0305",
+            "scheduled_service": "no",
+            "longitude": "6.548333168029785"
+        },
+        {
+            "continent": "EU",
+            "altitude": "6129",
+            "iso_country": "FR",
+            "latitude": "44.12305450439453",
+            "municipality": "Thorame-Haute",
+            "index": "43649",
+            "type": "small_airport",
+            "name": "Thorame--Haute Les Serres Airport",
+            "iso_region": "FR-U",
+            "id": "FR-0306",
+            "scheduled_service": "no",
+            "longitude": "6.559999942779541"
+        },
+        {
+            "continent": "EU",
+            "altitude": "6398",
+            "iso_country": "FR",
+            "latitude": "44.1150016784668",
+            "municipality": "Thorame-Haute",
+            "index": "43650",
+            "type": "small_airport",
+            "name": "Thorame--Haute Les Serres Airport",
+            "iso_region": "FR-U",
+            "id": "FR-0307",
+            "scheduled_service": "no",
+            "longitude": "6.538610935211182"
+        }
+    ],
+    "requestType": "find"
+}

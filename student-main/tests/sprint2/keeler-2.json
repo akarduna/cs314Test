@@ -1,0 +1,63 @@
+{
+    "match": "ayy",
+    "limit": 0,
+    "found": 11,
+    "places": [
+        {
+            "latitude": "13.153200149536133",
+            "name": "El Obeid Airport",
+            "longitude": "30.23270034790039"
+        },
+        {
+            "latitude": "32.125633239746094",
+            "name": "Al Hayy Airport",
+            "longitude": "45.7816162109375"
+        },
+        {
+            "latitude": "32.11684036254883",
+            "name": "Kut Al Hayy East Air Base",
+            "longitude": "46.382240295410156"
+        },
+        {
+            "latitude": "35.75707244873047",
+            "name": "Qayyarah South Airport",
+            "longitude": "43.26463317871094"
+        },
+        {
+            "latitude": "35.76720047",
+            "name": "Qayyarah West Airport",
+            "longitude": "43.125099182099994"
+        },
+        {
+            "latitude": "33.2864990234375",
+            "name": "Marj Ruhayyil Air Base",
+            "longitude": "36.457401275634766"
+        },
+        {
+            "latitude": "25.1173000336",
+            "name": "Al Udeid Air Base",
+            "longitude": "51.3149986267"
+        },
+        {
+            "latitude": "24.747763",
+            "name": "As Salwa Border Post helipad",
+            "longitude": "50.851541"
+        },
+        {
+            "latitude": "25.296837",
+            "name": "Banana Island Helipad",
+            "longitude": "51.639031"
+        },
+        {
+            "latitude": "70.8083",
+            "name": "Lake Khaiyr Airport",
+            "longitude": "133.5059"
+        },
+        {
+            "latitude": "63.9622",
+            "name": "Horula Airfield",
+            "longitude": "118.644602"
+        }
+    ],
+    "requestType": "find"
+}

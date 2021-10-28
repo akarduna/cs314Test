@@ -1,0 +1,98 @@
+{
+    "match": "Hook",
+    "limit": 0,
+    "found": 18,
+    "places": [
+        {
+            "latitude": "40.7140007019043",
+            "name": "Paulus Hook Pier Heliport",
+            "longitude": "-74.03150177001953"
+        },
+        {
+            "latitude": "41.98460006713867",
+            "name": "Sky Park Airport",
+            "longitude": "-73.83599853515625"
+        },
+        {
+            "latitude": "43.055999755859375",
+            "name": "Hooksett Safety Center Heliport",
+            "longitude": "-71.44670104980469"
+        },
+        {
+            "latitude": "40.54169845581055",
+            "name": "Hanny Beaver Airpark Inc Airport",
+            "longitude": "-80.45259857177734"
+        },
+        {
+            "latitude": "47.911399841308594",
+            "name": "Poleschook Airport",
+            "longitude": "-101.2490005493164"
+        },
+        {
+            "latitude": "-20.1574",
+            "name": "Hook Island Helipad",
+            "longitude": "148.9481"
+        },
+        {
+            "latitude": "53.56669998168945",
+            "name": "Big Hook Wilderness Camp Seaplane Base",
+            "longitude": "-92.94999694824219"
+        },
+        {
+            "latitude": "52.0093",
+            "name": "Hook Norton Airstrip",
+            "longitude": "-1.4896"
+        },
+        {
+            "latitude": "51.276115",
+            "name": "Hook Airstrip",
+            "longitude": "-0.9407369"
+        },
+        {
+            "latitude": "39.80500030517578",
+            "name": "Hook's Heliport",
+            "longitude": "-86.03359985351562"
+        },
+        {
+            "latitude": "41.27450180053711",
+            "name": "Hook Field",
+            "longitude": "-84.80500030517578"
+        },
+        {
+            "latitude": "30.0618000031",
+            "name": "David Wayne Hooks Memorial Airport",
+            "longitude": "-95.55280303960001"
+        },
+        {
+            "latitude": "32.48529815673828",
+            "name": "John H Hooks Jr Memorial Airport",
+            "longitude": "-91.77030181884766"
+        },
+        {
+            "latitude": "39.53099823",
+            "name": "Middletown Regional-Hook Field Municipal Airport",
+            "longitude": "-84.39530182"
+        },
+        {
+            "latitude": "42.0421538954",
+            "name": "Hooker County Airport",
+            "longitude": "-101.059112549"
+        },
+        {
+            "latitude": "36.85710144042969",
+            "name": "Hooker Municipal Airport",
+            "longitude": "-101.22699737548828"
+        },
+        {
+            "latitude": "40.605098724365234",
+            "name": "Fino Airport",
+            "longitude": "-80.45809936523438"
+        },
+        {
+            "latitude": "-18.3367004395",
+            "name": "Hooker Creek Airport",
+            "longitude": "130.638000488"
+        }
+    ],
+    "requestType": "find"
+}

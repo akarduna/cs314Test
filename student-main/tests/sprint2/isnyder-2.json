@@ -1,0 +1,23 @@
+{
+    "match": "--",
+    "limit": 0,
+    "places": [
+        {
+            "latitude": "44.13972091674805",
+            "name": "Thorame--Haute Chamatte Airport",
+            "longitude": "6.548333168029785"
+        },
+        {
+            "latitude": "44.12305450439453",
+            "name": "Thorame--Haute Les Serres Airport",
+            "longitude": "6.559999942779541"
+        },
+        {
+            "latitude": "44.1150016784668",
+            "name": "Thorame--Haute Les Serres Airport",
+            "longitude": "6.538610935211182"
+        }
+    ],
+    "found": 3,
+    "requestType": "find"
+}

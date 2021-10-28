@@ -1,0 +1,27 @@
+{
+    "requestType": "distances",
+    "places": [
+        {
+            "name": "مكة",
+            "latitude": "21.25",
+            "longitude": "39.49"
+        },
+        {
+            "name": "Nothing happen here",
+            "latitude": "39.54",
+            "longitude": "116.23"
+        },
+        {
+            "name": "[object Object]",
+            "latitude": "-33.9",
+            "longitude": "151.2"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        7416,
+        8923,
+        13258
+    ]
+    
+}

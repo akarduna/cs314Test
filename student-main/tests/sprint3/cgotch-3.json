@@ -1,0 +1,25 @@
+{
+    "places": [
+        {
+            "name": "Shed Aquarium",
+            "latitude": "41.86767",
+            "longitude": "-87.61397"
+        },
+        {
+            "name": "Columbus Aquarium",
+            "latitude": "40.15636",
+            "longitude": "-83.11797"
+        },
+        {
+            "name": "Newport Aquarium",
+            "latitude": "39.10226",
+            "longitude": "-84.47749"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        422,
+        165
+    ],
+    "requestType": "distances"
+}

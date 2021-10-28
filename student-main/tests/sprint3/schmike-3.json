@@ -1,0 +1,21 @@
+{
+    "requestType": "distances",
+    "places": [
+        {
+            "name": "Hollywood Sign",
+            "latitude": "34.134117",
+            "longitude": "-118.321495"
+        },
+        {
+            "name": "Casa Grande Ruins",
+            "latitude": "32.995049",
+            "longitude": "-111.536324"
+        }
+    ],
+    "distances": [
+        0,
+        11111,
+        33333,
+    ],
+    "earthRadius": 6371
+}

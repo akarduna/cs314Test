@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "-64",
+            "name": "my house",
+            "longitude": "180"
+        },
+        {
+            "latitude": "-64",
+            "name": "my house again",
+            "longitude": "-180"
+        },
+        {
+            "latitude": "64",
+            "name": "my mom's house",
+            "longitude": "0"
+        }
+    ],
+    "earthRadius": 100000.0,
+    "distances": [
+        0,
+        314159,
+        314159
+    ],
+    "requestType": "distances"
+}

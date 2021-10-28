@@ -1,0 +1,17 @@
+{
+    "match": "Total",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "altitude": "11",
+            "iso_country": "US",
+            "latitude": "40.07080078125",
+            "name": "Total Rf Heliport",
+            "municipality": "Bensalem",
+            "type": "heliport",
+            "longitude": "-74.93360137939453"
+        }
+    ],
+    "requestType": "find"
+}

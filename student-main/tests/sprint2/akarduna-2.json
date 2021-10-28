@@ -1,0 +1,15 @@
+{
+    "match": "eugene",
+    "limit": 10,
+    "found": 1,
+    "places": [
+        {
+            "name": "Eugene's Dream Airport",
+            "latitude": "33.0452995300293",
+            "longitude": "-97.67479705810547",
+            "altitude": "905",
+            "type": "small_airport"
+        }
+    ],
+    "requestType": "find"
+}

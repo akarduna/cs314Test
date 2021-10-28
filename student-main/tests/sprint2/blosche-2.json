@@ -1,0 +1,18 @@
+{
+  "match": "cooli",
+  "limit": 0,
+  "found": 2,
+  "places": [
+    {
+      "latitude": "-15.548299789428711",
+      "name": "Coolibah Airport",
+      "longitude": "130.96200561523438"
+    },
+    {
+      "latitude": "32.9359016418457",
+      "name": "Coolidge Municipal Airport",
+      "longitude": "-111.427001953125"
+    }
+  ],
+  "requestType": "find"
+}

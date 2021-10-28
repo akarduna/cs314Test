@@ -1,0 +1,15 @@
+{
+    "match": "Half Moon Bay",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "name": "Half Moon Bay Airport",
+            "latitude": "37.513401031499995",
+            "longitude": "-122.500999451",
+            "altitude": "66",
+            "type": "small_airport"
+        }
+    ],
+    "requestType": "find"
+}

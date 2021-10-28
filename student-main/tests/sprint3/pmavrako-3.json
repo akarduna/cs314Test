@@ -1,0 +1,26 @@
+{
+	"places": [
+		{
+			"latitude": "37.5222",
+			"name": "CSU Stanislaus",
+			"longitude": "-120.8581"
+		},
+		{
+			"latitude": "40.5734",
+			"name": "CSU Fort Collins",
+			"longitude": "-105.0865"
+		},
+		{
+			"latitude": "20.50806",
+			"name": "Africa-adjacent",
+			"longitude": "33.81991"
+		}
+	],
+	"earthRadius": 1000.0,
+	"distances": [
+		219,
+		1884,
+		2046
+	],
+	"requestType": "distances"
+}

@@ -1,0 +1,16 @@
+{
+    "match": "phnom",
+    "limit": 0,
+    "places": [
+        {
+            "altitude": "40",
+            "iso_country": "KH",
+            "latitude": "11.546600341796875",
+            "name": "Phnom Penh International Airport",
+            "municipality": "Phnom Penh",
+            "longitude": "104.84400177001953"
+        }
+    ],
+    "found": 1,
+    "requestType": "find"
+}

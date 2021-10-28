@@ -1,0 +1,13 @@
+{
+    "match": "Patton Army",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "latitude": "28.8636111111",
+            "name": "Patton Army Heliport",
+            "longitude": "48.1511111111"
+        }
+    ],
+    "requestType": "find"
+}

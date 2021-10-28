@@ -1,0 +1,28 @@
+{
+    "match": "Jake",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "latitude": "11.1234567890123",
+            "name": "Jake's Airport",
+            "longitude": "-99.1234567890123"
+        },
+        {
+            "latitude": "22.1234567890123",
+            "name": "Erik's Airport",
+            "longitude": "-98.1234567890123"
+        },
+        {
+            "latitude": "33.1234567890123",
+            "name": "Max's Heiliport",
+            "longitude": "-97.1234567890123"
+        },
+        {
+            "latitude": "44.1234567890123",
+            "name": "Sonu's Heliport",
+            "longitude": "-96.1234567890123"
+        }
+    ],
+    "requestType": "find"
+}

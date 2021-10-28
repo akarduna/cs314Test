@@ -1,0 +1,68 @@
+{
+    "match": "a",
+    "limit": 0,
+    "places": [
+        {
+            "altitude": "11",
+            "latitude": "40.07080078125",
+            "name": "Total Rf Heliport",
+            "longitude": "-74.93360137939453"
+        },
+        {
+            "altitude": "820",
+            "latitude": "34.86479949951172",
+            "name": "Epps Airpark",
+            "longitude": "-86.77030181884766"
+        },
+        {
+            "altitude": "237",
+            "latitude": "35.608699798583984",
+            "name": "Newport Hospital & Clinic Heliport",
+            "longitude": "-91.25489807128906"
+        },
+        {
+            "altitude": "3810",
+            "latitude": "34.305599212646484",
+            "name": "Cordes Airport",
+            "longitude": "-112.16500091552734"
+        },
+        {
+            "altitude": "3038",
+            "latitude": "35.350498199499995",
+            "name": "Goldstone /Gts/ Airport",
+            "longitude": "-116.888000488"
+        },
+        {
+            "altitude": "4830",
+            "latitude": "40.62220001220703",
+            "name": "Cass Field",
+            "longitude": "-104.34400177001953"
+        },
+        {
+            "altitude": "53",
+            "latitude": "28.64550018310547",
+            "name": "Grass Patch Airport",
+            "longitude": "-82.21900177001953"
+        },
+        {
+            "altitude": "25",
+            "latitude": "28.846599578857422",
+            "name": "Ringhaver Heliport",
+            "longitude": "-82.34539794921875"
+        },
+        {
+            "altitude": "35",
+            "latitude": "27.230899810791016",
+            "name": "River Oak Airport",
+            "longitude": "-80.96920013427734"
+        },
+        {
+            "altitude": "700",
+            "latitude": "33.76750183105469",
+            "name": "Lt World Airport",
+            "longitude": "-84.06829833984375"
+        }
+    ],
+    "found": 47577,
+    "requestType": "find"
+}

@@ -1,0 +1,53 @@
+{
+  "match": "albany",
+  "limit": 0,
+  "found": 9
+  "places": [
+    {
+       "name": "South Albany Airport",
+       "latitude": "42.560699462890625",
+       "longitude": "-73.83390045166016"
+    },
+    {
+       "name": "Albany Airport",
+       "latitude": "42.7181",
+       "longitude": "-89.4237"
+    },
+    {
+       "name": "Fort Albany Airport",
+       "latitude": "52.20140075683594",
+       "longitude": "-81.6968994140625"
+    },
+    {
+       "name": "Albany International Airport",
+       "latitude": "42.74829864501953",
+       "longitude": "-73.80169677734375"
+    },
+    {
+       "name": "Albany Municipal Airport",
+       "latitude": "40.262199401855",
+       "longitude": "-94.338996887207"
+    },
+    {
+       "name": "New Albany Union County Airport",
+       "latitude": "34.54869842529297",
+       "longitude": "-89.02420043945312"
+    },
+    {
+       "name": "Albany Municipal Airport",
+       "latitude": "44.637798309326",
+       "longitude": "-123.05899810791"
+    },
+    {
+       "name": "Albany Municipal Airport",
+       "latitude": "32.71900177002",
+       "longitude": "-99.267601013184"
+    },
+    {
+       "name": "Albany Airport",
+       "latitude": "-34.94329833984375",
+       "longitude": "117.80899810791016"
+    }
+  ],
+  "requestType": "find"
+}

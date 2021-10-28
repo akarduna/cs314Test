@@ -1,0 +1,13 @@
+{
+	"match": "Ozark Skies",
+	"limit": 10,
+	"found": 1,
+	"places": [
+		{
+			"name": "Ozark Skies Airpark",
+			"latitude": "36.000633",
+			"longitude": "-93.57025",
+		}
+	],
+	"requestType": "find"
+}

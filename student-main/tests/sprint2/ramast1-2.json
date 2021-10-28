@@ -1,0 +1,20 @@
+{
+    "match": "pizza",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "name": "Mario's Flying Pizza Airport",
+            "municipality": "Sealy",
+            "latitude": "29.747699737548828",
+            "longitude": "-96.2927017211914"
+        },
+        {
+            "name": "Nelson Pizzani Airport",
+            "municipality": "Monte Carlo",
+            "latitude": "-27.21269989013672",
+            "longitude": "-50.95650100708008",
+        }
+    ],
+    "requestType": "find"
+}

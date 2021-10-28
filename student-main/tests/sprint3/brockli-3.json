@@ -1,0 +1,44 @@
+{
+    "places": [
+        {
+            "latitude": "90",
+            "name": "Positive Bound",
+            "longitude": "180"
+        },
+        {
+            "latitude": "-90",
+            "name": "Negative Bound",
+            "longitude": "-180"
+        },
+        {
+            "latitude": "0",
+            "name": "Origin",
+            "longitude": "0"
+        },
+        {
+            "latitude": "-40",
+            "name": "Acute Angle",
+            "longitude": "0"
+        },
+        {
+            "latitude": "-40",
+            "name": "Repeat",
+            "longitude": "0"
+        },
+        {
+            "latitude": "90",
+            "name": "Start",
+            "longitude": "180"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        20015,
+        10007,
+        4447,
+        0,
+        14455,
+        0
+    ],
+    "requestType": "distances"
+}

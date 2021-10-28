@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "Empire State Building",
+            "latitude": "40.7484",
+            "longitude": "-73.9857"
+        },
+        {
+            "name": "The Great Pyramid of Giza",
+            "latitude": "29.9792",
+            "longitude": "31.1342"
+        },
+        {
+            "name": "Leaning Tower of Pisa",
+            "latitude": "43.7230",
+            "longitude": "10.3966"
+        }
+    ],
+    "earthRadius": 3958.756,
+    "distances": [
+        5602,
+        1481,
+        4124
+    ],
+    "requestType": "distances"
+}

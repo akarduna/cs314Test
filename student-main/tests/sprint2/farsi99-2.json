@@ -1,0 +1,17 @@
+{
+    "match": "Sohar",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "altitude": "20",
+            "iso_country": "OM",
+            "latitude": "24.38604",
+            "name": "Sohar Airport",
+            "municipality": "Sohar",
+            "type": "small_airport",
+            "longitude": "56.62541"
+        }
+    ],
+    "requestType": "find"
+}

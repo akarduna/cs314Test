@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "23.61",
+            "name": "Muscat, 1858, Oman",
+            "longitude": "58.33"
+        },
+        {
+            "latitude": "43.04",
+            "name": "Apron II, Aviation Lane, London, Southwestern Ontario, Ontario, N6C 1V2, Canada",
+            "longitude": "-81.15"
+        },
+        {
+            "latitude": "35.55",
+            "name": "Haneda Kukou, Ota, Tokyo, 144-0000, Japan",
+            "longitude": "139.78"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        11524,
+        10342,
+        7772
+    ],
+    "requestType": "distances"
+}

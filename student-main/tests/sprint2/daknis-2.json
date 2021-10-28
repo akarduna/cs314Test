@@ -1,0 +1,28 @@
+{
+    "match": "panama",
+    "limit": 0,
+    "places": [
+        {
+            "latitude": "-13.76",
+            "name": "Fazenda Panamá Airport",
+            "longitude": "-58.74722"
+        },
+        {
+            "latitude": "30.201273",
+            "name": "Panama City Beach Airstrip",
+            "longitude": "-85.817422"
+        },
+        {
+            "latitude": "30.212099",
+            "name": "Panama City-Bay Co International Airport",
+            "longitude": "-85.6828"
+        },
+        {
+            "latitude": "8.91479",
+            "name": "Panama Pacific International Airport",
+            "longitude": "-79.599602"
+        }
+    ],
+    "found": 4,
+    "requestType": "find"
+}

@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "Nyahururu Airport",
+            "latitude": "-0.013767",
+            "longitude": "36.369735"
+        },
+        {
+            "name": "Heglig Airport",
+            "latitude": "9.994933",
+            "longitude": "29.397718"
+        },
+        {
+            "name": "Mong Hpayak Airport",
+            "latitude": "20.833000",
+            "longitude": "99.949996"
+        }
+    ],
+ !   "earthRadius": 6371.0,
+    "distances": [
+ !       838,
+ !       4731,
+ !       4523
+    ],
+    "requestType": "distances"
+}

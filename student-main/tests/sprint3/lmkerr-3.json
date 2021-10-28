@@ -1,0 +1,26 @@
+{
+  "places": [
+    {
+      "latitude": "36.53",
+      "name": "Sneedville Tennessee",
+      "longitude": "-83.20"
+    },
+    {
+      "latitude": "35.50",
+      "name": "Tokyo Japan",
+      "longitude": "139.76"
+    },
+    {
+      "latitude": "-34.61",
+      "name": "Buenos Aires Argentina",
+      "longitude": "-58.43"
+    }
+  ],
+  "earthRadius": 6371.0,
+  "distances": [
+    10858,
+    18359,
+    8316
+  ],
+  "requestType": "distances"
+}

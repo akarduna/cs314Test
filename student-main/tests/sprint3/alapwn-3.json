@@ -1,0 +1,43 @@
+{
+    "places": [
+        {
+            "latitude": "40.5747096",
+            "longitude": "-105.130363"
+        },
+        {
+            "latitude": "40.5747096",
+            "longitude": "-105.130363"
+        },
+        {
+            "latitude": "40.5747096",
+            "longitude": "-105.130363"
+        },
+        {
+            "latitude": "40.5747096",
+            "longitude": "-105.130363"
+        },
+        {
+            "latitude": "-40.5747096",
+            "longitude": "105.130363"
+        },
+        {
+            "latitude": "-40.5747096",
+            "longitude": "-105.130363"
+        },
+        {
+            "latitude": "40.5747096",
+            "longitude": "105.130363"
+        }
+    ],
+    "earthRadius": 3959,
+    "distances": [
+        0,
+        0,
+        0,
+        10857,
+        6517,
+        10857,
+        6517
+    ],
+    "requestType": "distances"
+}

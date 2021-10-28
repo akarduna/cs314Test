@@ -1,0 +1,32 @@
+{
+    "places": [
+      {
+        "latitude": "28.408999",
+        "name": "Orlando International Airport",
+        "longitude": "-81.310293"
+      },
+      {
+        "latitude": "35.919653",
+        "name": "Rockwood Municipal Airport",
+        "longitude": "-84.690601"
+      },
+      {
+        "latitude": "36.119447",
+        "name": "Nashville International Airport",
+        "longitude": "-86.684734"
+      },
+      {
+        "latitude": "40.447404",
+        "name": "Northern Colorado Regional Airport",
+        "longitude": "-105.011033"
+      }
+    ],
+    "earthRadius": 3959.0,
+    "distances": [
+      555,
+      112,
+      1036,
+      1579
+    ],
+    "requestType": "distances"
+}

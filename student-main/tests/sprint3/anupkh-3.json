@@ -1,0 +1,10 @@
+{
+	"requestType": "distances",	
+	"places": [
+		{"latitude": "37.31999969482422", "longitude": "-93.4198989868164", "name": "Bird Field"},
+		{"latitude": "34.90039825439453", "longitude": "-84.77850341796875", "name": "Blue Bird Field"},
+		{"latitude": "31.001399993896484", "longitude": "-88.51699829101562", "name": "Bird Nest Airport"}
+		],
+	"earthRadius": 6371.0,
+	"distances": [821, 556, 835]
+}

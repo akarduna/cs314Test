@@ -1,0 +1,22 @@
+{
+    "match": "shadow",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "latitude": "37.740299224853516",
+            "name": "Morning Shadows Ranch Airport",
+            "municipality": "South Fork",
+            "type": "small_airport",
+            "longitude": "-106.5260009765625"
+        },
+        {
+            "latitude": "26.732799530029297",
+            "name": "Pine Shadows Airpark",
+            "municipality": "Fort Myers",
+            "type": "small_airport",
+            "longitude": "-81.89730072021484"
+        }
+    ],
+    "requestType": "find"
+}

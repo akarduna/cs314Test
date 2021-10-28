@@ -1,0 +1,22 @@
+{
+	"requestType": "distances",
+	"places": [
+		{
+			"latitude": "40.07080078125",
+			"longitude": "-74.93360137939453"
+		},
+		{
+			"latitude": "33.73979949951172",
+			"longitude": "-85.82550048828125"
+		},
+		{
+			"latitude": "83.38",
+			"longitude": "-32.40"
+		},
+		{
+			"latitude": "-83",
+			"longitude": "-59"
+		}
+	],
+	"earthRadius": 3958.8
+}

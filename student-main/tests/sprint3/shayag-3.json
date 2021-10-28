@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "Total Rf Heliport",
+            "latitude": "40.07",
+            "longitude": "-74.93"
+        },
+        {
+            "name": "Lowell Field",
+            "latitude": "59.94",
+            "longitude": "-151.2"
+        },
+        {
+            "name": "Epps Airpark",
+            "latitude": "34.86",
+            "longitude": "-86.77"
+        },
+    ],
+    "earthRadius": 6378,
+    "distances": [
+        0,
+        8455,
+        7194
+    ],
+    "requestType": "distances"
+}

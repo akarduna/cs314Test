@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "Nowhere",
+            "latitude": "0",
+            "longitude": "0"
+        },
+        {
+            "name": "Home",
+            "latitude": "43.6150",
+            "longitude": "-116.2023"
+        },
+        {
+            "name": "Noth Pole",
+            "latitude": "90.0000",
+            "longitude": "-135.0000"
+        }
+    ],
+    "earthRadius": 3548.0,
+    "distances": [
+        6550,
+        2960,
+        5573
+    ],
+    "requestType": "distances"
+}

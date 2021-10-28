@@ -1,0 +1,28 @@
+{
+  "match": "lismore",
+  "limit": 0,
+  "found": 4,
+  "places": [
+    {
+      "latitude": "-28.808344",
+      "name": "Lismore - Mortimer Oval Helicopter Landing Site",
+      "longitude": "153.284455"
+    },
+    {
+      "latitude": "-28.801211",
+      "name": "Lismore Helibase",
+      "longitude": "153.288242"
+    },
+    {
+      "latitude": "-28.8302993774",
+      "name": "Lismore Airport",
+      "longitude": "153.259994507"
+    },
+    {
+      "latitude": "-37.93330001831055",
+      "name": "Lismore Airport",
+      "longitude": "143.35000610351562"
+    }
+  ],
+  "requestType": "find"
+}

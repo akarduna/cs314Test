@@ -1,0 +1,23 @@
+{
+	"match": "Namib",
+	"limit": 0,
+	"found": 3,
+	"places": [
+		{
+			"name": "Namibe Airport",
+			"latitude": "-15.261199951171875",
+			"longitude": "12.14680004119873",
+		},
+		{
+			"name": "Namib Naukluft Landing Site",
+			"latitude": "-23.9950008392334",
+			"longitude": "15.9306001663208",
+		},
+		{
+			"name": "Namibia East Air Base",
+			"latitude": "-17.775299072265625",
+			"longitude": "25.18670082092285",
+		}
+	],
+	"requestType": "find"
+}

@@ -1,0 +1,9 @@
+{
+  	"requestType": "distances",
+	"places": [
+    	{"name": "County Road 84, Weld County, Colorado, United States", "latitude": "40.59251424159133", "longitude": "-104.91874226336438"},
+		{"name": "Larimer County, Colorado, United States", "latitude": "40.557090415442794", "longitude": "-105.27579804705202"},
+		{"name": "Albany County, Wyoming, United States", "latitude": "41.019635662673075", "longitude": "-105.38083386541618"}],
+	"earthRadius": 6371.0,
+	"distances": [30, 52, 61]
+}

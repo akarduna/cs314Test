@@ -1,0 +1,71 @@
+{
+    "match": "La Porte",
+    "limit": 0,
+    "found": 7,
+    "places": [
+        {
+            "altitude": "838",
+            "iso_country": "US",
+            "latitude": "41.610599517822266",
+            "name": "La Porte Hospital Heliport",
+            "municipality": "La Porte",
+            "type": "heliport",
+            "longitude": "-86.72579956054688"
+        },
+        {
+            "altitude": "812",
+            "iso_country": "US",
+            "latitude": "41.5724983215",
+            "name": "La Porte Municipal Airport",
+            "municipality": "La Porte",
+            "type": "small_airport",
+            "longitude": "-86.73449707030001"
+        },
+        {
+            "altitude": "25",
+            "iso_country": "US",
+            "latitude": "29.669300079345703",
+            "name": "La Porte Municipal Airport",
+            "municipality": "La Porte",
+            "type": "small_airport",
+            "longitude": "-95.06420135498047"
+        },
+        {
+            "altitude": "31",
+            "iso_country": "US",
+            "latitude": "29.72879981994629",
+            "name": "La Porte Plant Heliport",
+            "municipality": "Deer Park",
+            "type": "heliport",
+            "longitude": "-95.08910369873047"
+        },
+        {
+            "altitude": "950",
+            "iso_country": "US",
+            "latitude": "42.31669998168945",
+            "name": "Nichols Airport",
+            "municipality": "La Porte City",
+            "type": "small_airport",
+            "longitude": "-92.28350067138672"
+        },
+        {
+            "altitude": "740",
+            "iso_country": "US",
+            "latitude": "41.68450164794922",
+            "name": "Norm's Airpark",
+            "municipality": "La Porte",
+            "type": "small_airport",
+            "longitude": "-86.7677993774414"
+        },
+        {
+            "altitude": "28",
+            "iso_country": "US",
+            "latitude": "29.7012996673584",
+            "name": "Rental Tools Heliport",
+            "municipality": "La Porte",
+            "type": "heliport",
+            "longitude": "-95.07830047607422"
+        }
+    ],
+    "requestType": "find"
+}

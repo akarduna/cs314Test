@@ -1,0 +1,13 @@
+{
+    "match": "schook",
+    "limit": 0,
+    "found": 1,
+    "places": [
+        {
+            "name": "Poleschook Airport",
+            "latitude": "47.911399841308594",
+            "longitude": "-101.2490005493164"
+        }
+    ],
+    "requestType": "find"
+}

@@ -1,0 +1,71 @@
+{
+    "match": "Denver",
+    "limit": 0,
+    "found": 7,
+    "places": [
+        {
+            "altitude": "5212",
+            "iso_country": "US",
+            "latitude": "39.727500915527344",
+            "name": "Denver Health Heliport",
+            "municipality": "Denver",
+            "id": "CO35",
+            "longitude": "-104.99099731445312"
+        },
+        {
+            "altitude": "5550",
+            "iso_country": "US",
+            "latitude": "39.72330093383789",
+            "name": "Denver Federal Center Helistop",
+            "municipality": "Denver",
+            "id": "CO39",
+            "longitude": "-105.11100006103516"
+        },
+        {
+            "altitude": "5340",
+            "iso_country": "US",
+            "latitude": "39.6875",
+            "name": "Denver Police Department-District 3 Heliport",
+            "municipality": "Denver",
+            "id": "CO41",
+            "longitude": "-104.95999908447266"
+        },
+        {
+            "altitude": "5057",
+            "iso_country": "US",
+            "latitude": "40.187198638916016",
+            "name": "Denver Artcc Heliport",
+            "municipality": "Longmont",
+            "id": "CO99",
+            "longitude": "-105.12699890136719"
+        },
+        {
+            "altitude": "5431",
+            "iso_country": "US",
+            "latitude": "39.861698150635",
+            "name": "Denver International Airport",
+            "municipality": "Denver",
+            "id": "KDEN",
+            "longitude": "-104.672996521"
+        },
+        {
+            "altitude": "3575",
+            "iso_country": "US",
+            "latitude": "32.975101470947",
+            "name": "Denver City Airport",
+            "municipality": "Denver City",
+            "id": "KE57",
+            "longitude": "-102.84200286865"
+        },
+        {
+            "altitude": "5333",
+            "iso_country": "US",
+            "latitude": "39.774200439453125",
+            "name": "Denver Stapleton International Airport",
+            "municipality": "Denver",
+            "id": "X-KDEN",
+            "longitude": "-104.87899780273438"
+        }
+    ],
+    "requestType": "find"
+}

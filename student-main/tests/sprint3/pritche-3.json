@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "name": "CSU Oval",
+            "latitude": "40.57636616247881",
+            "longitude": "-105.08074272559294"
+        },
+        {
+            "name": "Coors Field",
+            "latitude": "39.75635996568721",
+            "longitude": "-104.99418529200517"
+        },
+        {
+            "name": "Empower Field at Mile High",
+            "latitude": "39.74429125277623",
+            "longitude": "-105.02013873059595"
+        }
+    ],
+    "earthRadius": 3958.756,
+    "distances": [
+        57,
+        2,
+        58
+    ],
+    "requestType": "distances"
+}

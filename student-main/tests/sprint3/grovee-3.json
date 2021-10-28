@@ -1,0 +1,26 @@
+{
+  "places": [
+    {
+      "latitude": "32.1656",
+      "name": "Georgia",
+      "longitude": "-82.9001"
+    },
+    {
+      "latitude": "33.6409",
+      "name": "Atlanta Airport",
+      "longitude": "-84.4462"
+    },
+    {
+      "latitude": "42.3154",
+      "name": "Georgia",
+      "longitude": "43.3569"
+    }
+  ],
+  "earthRadius": 6371.0,
+  "distances": [
+    219,
+    10036,
+    10083
+  ],
+  "requestType": "distances"
+}

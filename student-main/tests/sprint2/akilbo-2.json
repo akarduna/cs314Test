@@ -1,0 +1,18 @@
+{
+    "match": "Fort Collins",
+    "limit": 0,
+    "places": [
+        {
+            "name": "Fort Collins Downtown Airport",
+            "latitude": "40.5882987976",
+            "longitude": "-105.041999817"
+        },
+        {
+            "name": "Fort Collins Loveland Municipal Airport",
+            "latitude": "40.4518013",
+            "longitude": "-105.011001587"
+        }
+    ],
+    "found": 2,
+    "requestType": "find"
+}

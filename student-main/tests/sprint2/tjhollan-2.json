@@ -1,0 +1,13 @@
+{
+    "match": "venezuela",
+    "limit": 0,
+    "places": [
+        {
+            "latitude": "9.166666984558105",
+            "name": "Central Venezuela Airport",
+            "longitude": "-71.0999984741211"
+        }
+    ],
+    "found": 1,
+    "requestType": "find"
+}

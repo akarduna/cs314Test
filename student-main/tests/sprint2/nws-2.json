@@ -1,0 +1,14 @@
+{
+  "requestType"    : "find",
+  "match"          : "ronald reagan",
+  "limit"          : 0,
+  "found"          : 1,
+  "places"         : [{"name": "Ronald Reagan Washington National Airport",
+                       "latitude": "38.8521",
+                       "longitude": "-77.037697",
+                       "altitude": "15",
+                       "type": "large_airport",
+                       "country": "United States",
+                       "url": "https://www.aopa.org/destinations/airports/KDCA/details"
+                       }]
+}

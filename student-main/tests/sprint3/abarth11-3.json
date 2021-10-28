@@ -1,0 +1,50 @@
+{
+    "places": [
+        {
+            "latitude": "81.41",
+            "name": "NA",
+            "longitude": "-78.05"
+        },
+        {
+            "latitude": "-5.18",
+            "name": "SA",
+            "longitude": "-75.23"
+        },
+        {
+            "latitude": "61.55",
+            "name": "EU",
+            "longitude": "10.55"
+        },
+        {
+            "latitude": "65.03",
+            "name": "AS",
+            "longitude": "165.94"
+        },
+        {
+            "latitude": "-24.12",
+            "name": "OC",
+            "longitude": "133.59"
+        },
+        {
+            "latitude": "-17.56",
+            "name": "AF",
+            "longitude": "23.20"
+        },
+        {
+            "latitude": "-75.25",
+            "name": "AN",
+            "longitude": "55.51"
+        }
+    ],
+    "earthRadius": 3959.0,
+    "distances": [
+        5984,
+        6395,
+        3600,
+        6397,
+        6935,
+        4160,
+        11694
+    ],
+    "requestType": "distances"
+}

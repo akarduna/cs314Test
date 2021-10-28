@@ -1,0 +1,44 @@
+{
+    "match": "Sedalia",
+    "limit": 0,
+    "found": 4,
+    "places": [
+        {
+            "altitude": "898",
+            "iso_country": "US",
+            "latitude": "38.69860076904297",
+            "name": "Bothwell Regional Health Center Heliport",
+            "municipality": "Sedalia",
+            "type": "heliport",
+            "longitude": "-93.22239685058594"
+        },
+        {
+            "altitude": "885",
+            "iso_country": "US",
+            "latitude": "38.66279983520508",
+            "name": "Homan Field",
+            "municipality": "Sedalia",
+            "type": "small_airport",
+            "longitude": "-93.33270263671875"
+        },
+        {
+            "altitude": "909",
+            "iso_country": "US",
+            "latitude": "38.70740127559999",
+            "name": "Sedalia Memorial Airport",
+            "municipality": "Sedalia",
+            "type": "small_airport",
+            "longitude": "-93.17590332030001"
+        },
+        {
+            "altitude": "870",
+            "iso_country": "US",
+            "latitude": "38.73030090332",
+            "name": "Whiteman Air Force Base",
+            "municipality": "Knob Noster",
+            "type": "large_airport",
+            "longitude": "-93.547897338867"
+        }
+    ],
+    "requestType": "find"
+}

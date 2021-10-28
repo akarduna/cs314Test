@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "40.5705",
+            "name": "CSU mountain campus",
+            "longitude": "-105.5913"
+        },
+        {
+            "latitude": "40.5734",
+            "name": "CSU",
+            "longitude": "-105.0865"
+        },
+        {
+            "latitude": "40.6247",
+            "name": "Cameron Peak",
+            "longitude": "-105.8947"
+        }
+    ],
+    "earthRadius": 3958.8,
+    "distances": [
+        26,
+        42,
+        16
+    ],
+    "requestType": "distances"
+}

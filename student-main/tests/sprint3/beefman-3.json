@@ -1,0 +1,26 @@
+{
+    "places": [
+        {
+            "latitude": "51.470600",
+            "name": "London Heathrow Airport",
+            "longitude": "-0.461941"
+        },
+        {
+            "latitude": "40.639801",
+            "name": "John F. Kennedy International Airport",
+            "longitude": "-73.778900"
+        },
+        {
+            "latitude": "47.449001",
+            "name": "Seattle-Tacoma International Airport",
+            "longitude": "-122.308998"
+        }
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        5548.32,
+        3892.41,
+        9440.73
+    ],
+    "requestType": "distances"
+}

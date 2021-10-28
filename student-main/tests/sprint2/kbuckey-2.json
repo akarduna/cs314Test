@@ -1,0 +1,28 @@
+{
+    "match": "cincinnati",
+    "limit": 0,
+    "found": 4,
+    "places": [
+        {
+        "latitude": "39.0488014221",
+        "name": "Cincinnati Northern Kentucky International Airport",
+        "longitude": "-84.6678009033"
+        },
+        {
+        "latitude": "39.2588996887207",
+        "name": "Cincinnati West Airport",
+        "longitude": "-84.77429962158203"
+        },
+        {"latitude": "39.246700286899994",
+        "name": "Cincinnati Blue Ash Airport",
+        "longitude": "-84.388999939"
+        },
+        {"latitude": "39.10329819",
+        "name": "Cincinnati Municipal Airport Lunken Field",
+        "longitude": "-84.41860199"
+        }
+    ],
+    "requestType": "find"
+    
+
+}

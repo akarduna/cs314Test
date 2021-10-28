@@ -1,0 +1,31 @@
+{
+    "places": [
+        { 
+            "latitude": "-32.006700",
+            "name": "Rottnest Island Airport",
+            "longitude": "115.536700"
+        },
+        {
+            "latitude": "35.772800",
+            "name": "100 Aker Wood Airport",
+            "longitude": "15.811343"
+        },
+        {
+            "latitude": "-32.006700",
+            "name": "Rottnest Island Airport",
+            "longitude": "-84.765297"
+        },
+        {
+            "latitude": "35.772800",
+            "name": "100 Aker Wood Airport",
+            "longitude": "15.811343"
+        },
+    ],
+    "earthRadius": 6371.0,
+    "distances": [
+        15542,
+        0,
+        15542,
+    ],
+    "requestType": "distances"
+}

@@ -1,0 +1,27 @@
+{
+  "places": [
+    {
+      "latitude": "78.93",
+      "name": "Ny-Ålesund, Svalbard, Norway",
+      "longitude": "11.87"
+    },
+    {
+      "latitude": "-77.85",
+      "name": "McMurdo Station, Antarctic",
+      "longitude": "166.47"
+    },
+    {
+      "latitude": "-5.87",
+      "name": "Natal, Brazil",
+      "longitude": "-35.18"
+    },
+    {
+      "latitude": "64.67",
+      "name": "Markovo, Russia",
+      "longitude": "170.42"
+    }
+  ],
+  "earthRadius": 6371.0,
+  "distances": [19439, 10611, 13170, 3986],
+  "requestType": "distances"
+}

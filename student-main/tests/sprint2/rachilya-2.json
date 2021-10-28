@@ -1,0 +1,44 @@
+{
+    "match": "lexington",
+    "limit": 0,
+    "found": 6,
+    "places": [
+        {
+            "name": "Lexington Airfield",
+            "municipality": "Lexington",
+            "latitude": "30.412500381469727",
+            "longitude": "-96.9666976928711"
+        },
+        {
+            "name": "Lexington Airport",
+            "municipality": "Lexington",
+            "latitude": "45.4541015625",
+            "longitude": "-119.69000244140625",
+        },
+        {
+            "name": "Lexington County At Pelion Airport",
+            "municipality": "Pelion",
+            "latitude": "33.79460144042969",
+            "longitude": "-81.24590301513672",
+        },
+        {
+            "name": "Lexington Heliport",
+            "municipality": "Ham Lake",
+            "latitude": "45.311100006103516",
+            "longitude": "-93.15039825439453",
+        },
+        {
+            "name": "Lexington Medical Center Heliport",
+            "municipality": "West Columbia",
+            "latitude": "34.00040054321289",
+            "longitude": "-81.10399627685547",
+        },
+        {
+            "name": "Lexington Municipal Airport",
+            "municipality": "Lexington",
+            "latitude": "39.209800720214844",
+            "longitude": "-93.9280014038086",
+        }
+    ],
+    "requestType": "find"
+}

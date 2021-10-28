@@ -1,0 +1,44 @@
+{
+    "match": "cooper",
+      "limit": 0,
+      "found": 15,
+      "places": [
+          {
+              "altitude": "1260",
+              "latitude": "40.1161003112793",
+              "name": "Pawnee City Municipal Airport",
+              "municipality": "Pawnee City",
+              "id": "50K",
+              "type": "small_airport",
+              "longitude": "-96.19450378417969"
+          },
+          {
+              "altitude": "925",
+              "latitude": "36.33340072631836",
+              "name": "Pawnee Municipal Hospital Heliport",
+              "municipality": "Pawnee",
+              "id": "9OK2",
+              "type": "heliport",
+              "longitude": "-96.80030059814453"
+          },
+          {
+              "altitude": "875",
+              "latitude": "36.383399963378906",
+              "name": "Pawnee Municipal Airport",
+              "municipality": "Pawnee",
+              "id": "H97",
+              "type": "small_airport",
+              "longitude": "-96.810302734375"
+          },
+          {
+              "altitude": "2012",
+              "latitude": "38.20859909",
+              "name": "Larned Pawnee County Airport",
+              "municipality": "Larned",
+              "id": "KLQR",
+              "type": "small_airport",
+              "longitude": "-99.08599854"
+          }
+      ],
+      "requestType": "find"
+  }

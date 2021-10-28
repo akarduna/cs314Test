@@ -1,0 +1,43 @@
+{
+  "match": "brew",
+  "requestType": "find",
+  "limit": 0,
+  "found": 5,
+  "places": [
+      {
+          "name": "Brewer Airport",
+          "latitude": "44.76369857788086",
+          "longitude": "-68.7677993774414",
+          "altitude": "124",
+          "type": "small_airport"
+      },
+        {
+          "name": "Brewton Municipal Airport",
+          "latitude": "31.050600051879883",
+          "longitude": "-87.06559753417969",
+          "altitude": "99",
+          "type": "small_airport"
+      },
+      {
+          "name": "Brewster Field",
+          "latitude": "40.452099",
+          "longitude": "-99.336502",
+          "altitude": "2313",
+          "type": "small_airport"
+      },
+      {
+          "name": "Brewer Airport",
+          "latitude": "39.2108421986",
+          "longitude": "-89.1182398796",
+          "altitude": "640",
+          "type": "small_airport"
+      },
+      {
+          "name": "Brewarrina Airport",
+          "latitude": "-29.973899841308594",
+          "longitude": "146.81700134277344",
+          "altitude": "414",
+          "type": "medium_airport"
+      }
+  ]
+}

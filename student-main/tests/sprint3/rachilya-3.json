@@ -1,0 +1,26 @@
+{
+    "earthRadius": 6371.0,
+    "places": [
+        {
+            "latitude": "38.0364990234375",
+            "name": "Blue Grass Airport",
+            "longitude": "-84.60590362548828"
+        },
+        {
+            "latitude": "30.38719940185547",
+            "name": "Cotton Patch Airport",
+            "longitude": "-97.1050033569336"
+        },
+        {
+            "latitude": "38.14400100708008",
+            "name": "Cherry Field",
+            "longitude": "-76.47219848632812"
+        }
+    ],
+    "distances": [
+        1427,
+        2076,
+        711
+    ],
+    "requestType": "distances"
+}

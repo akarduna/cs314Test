@@ -1,0 +1,30 @@
+{
+  "match": "Georgia",
+  "places": [
+    {
+      "altitude": "890",
+      "country": "United States",
+      "latitude": "33.18579864501953",
+      "name": "3-M's Airport",
+      "municipality": "Williamson",
+      "id": "96GA",
+      "type": "small_airport",
+      "region": "Georgia",
+      "longitude": "-84.36810302734375"
+    },
+    {
+      "altitude": "885",
+      "country": "United States",
+      "latitude": "33.397098541259766",
+      "name": "Adams Airport",
+      "municipality": "Fayetteville",
+      "id": "GA91",
+      "type": "small_airport",
+      "region": "Georgia",
+      "longitude": "-84.46019744873047"
+    }
+  ],
+  "limit": 0,
+  "found": 539,
+  "requestType": "find"
+}

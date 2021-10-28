@@ -1,0 +1,37 @@
+{
+    "match": "pink",
+    "limit": 0,
+    "found": 4,
+    "places": [
+        {
+            "name": "Pink Hill Airport",
+            "latitude": "35.05070114135742",
+            "longitude": "-77.73609924316406",
+            "altitude": "144",
+            "type": "small_airport"
+        },
+        {
+            "name": "Fort Worth Spinks Airport",
+            "latitude": "32.56520080566406",
+            "longitude": "-97.30809783935547",
+            "altitude": "700",
+            "type": "small_airport"
+        },
+        {
+            "name": "Pinkafeld Airport",
+            "latitude": "47.38668441772461",
+            "longitude": "16.112672805786133",
+            "altitude": "1339",
+            "type": "small_airport"
+        },
+        {
+            "name": "Osie  (Lipinki) Highway Strip",
+            "latitude": "53.608299255371094",
+            "longitude": "18.450599670410156",
+            "altitude": "295",
+            "type": "small_airport"
+        }
+
+    ],
+    "requestType": "find"
+}

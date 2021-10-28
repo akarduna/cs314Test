@@ -1,0 +1,43 @@
+{
+    "match": "Muscat",
+    "limit": 0,
+    "found": 4,
+    "places": [
+        {
+            "iso_country": "OM",
+            "latitude": "23.605048",
+            "name": "Armed Forces Beach Club Helipad",
+            "municipality": "Muscat",
+            "type": "heliport",
+            "longitude": "58.331587"
+        },
+        {
+            "altitude": "48",
+            "iso_country": "OM",
+            "latitude": "23.593299865722656",
+            "name": "Muscat International Airport",
+            "municipality": "Muscat",
+            "type": "large_airport",
+            "longitude": "58.284400939941406"
+        },
+        {
+            "altitude": "547",
+            "iso_country": "US",
+            "latitude": "41.367801666259766",
+            "name": "Muscatine Municipal Airport",
+            "municipality": "Muscatine",
+            "type": "small_airport",
+            "longitude": "-91.14820098876953"
+        },
+        {
+            "altitude": "633",
+            "iso_country": "US",
+            "latitude": "41.4336013794",
+            "name": "Unity Healthcare Heliport",
+            "municipality": "Muscatine",
+            "type": "heliport",
+            "longitude": "-91.05419921880001"
+        }
+    ],
+    "requestType": "find"
+}

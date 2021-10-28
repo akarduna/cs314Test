@@ -1,0 +1,23 @@
+{
+    "match": "teal",
+    "limit": 0,
+    "found": 2,
+    "places": [
+        {
+            "name": "Aeródromo Fuentealamo",
+            "latitude": "38.7168167",
+            "longitude": "-1.5461667",
+            "altitude": "2690",
+            "type": "small_airport"
+        },
+        {
+            "name": "Teal Farm Airport",
+            "latitude": "44.28260040283203",
+            "longitude": "-72.93730163574219",
+            "altitude": "1440",
+            "type": "small_airport"
+        }
+
+    ],
+    "requestType": "find"
+}

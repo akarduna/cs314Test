@@ -1,0 +1,57 @@
+{
+    "match": "rice",
+    "limit": 0,
+    "found": 7,
+    "places": [
+        {
+            "name": "Rice-Bell Field Airport",
+            "latitude": "35.0527992249",
+            "longitude": "-90.6750030518",
+            "altitude": "221",
+            "type": "small_airport"
+        },
+        {
+            "name": "Rice Private Heliport",
+            "latitude": "40.152801513671875",
+            "longitude": "-87.30809783935547",
+            "altitude": "660",
+            "type": "heliport"
+        },
+        {
+            "name": "Rice Ranch Airport",
+            "latitude": "47.998199462890625",
+            "longitude": "-119.08899688720703",
+            "altitude": "2434",
+            "type": "small_airport"
+        },
+        {
+            "name": "Riceland Aerodrome",
+            "latitude": "41.60390090942383",
+            "longitude": "-80.58979797363281",
+            "altitude": "1115",
+            "type": "small_airport"
+        },
+        {
+            "name": "Rice Lake Airport",
+            "latitude": "45.478599548339844",
+            "longitude": "-91.72219848632812",
+            "altitude": "1142",
+            "type": "small_airport"
+        },
+        {
+            "name": "Rice Memorial Hospital Heliport",
+            "latitude": "45.12009811401367",
+            "longitude": "-95.04660034179688",
+            "altitude": "1179",
+            "type": "heliport"
+        },
+        {
+            "name": "Rices Airpark",
+            "latitude": "47.95830154418945",
+            "longitude": "-99.5364990234375",
+            "altitude": "1575",
+            "type": "small_airport"
+        }
+    ],
+    "requestType": "find"
+}

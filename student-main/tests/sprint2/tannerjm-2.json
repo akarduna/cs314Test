@@ -1,0 +1,33 @@
+{
+    "match": "sick",
+    "limit": 0,
+    "found": 5,
+    "places": [
+        {
+            "latitude": "40.4281005859375",
+            "name": "Unsicker Airport",
+            "longitude": "-86.1532974243164"
+        },
+        {
+            "latitude": "38.430599212646484",
+            "name": "Sickler Airstrip",
+            "longitude": "-96.08830261230469"
+        },
+        {
+            "latitude": "37.12810134887695",
+            "name": "Nimsick Airport",
+            "longitude": "-94.21610260009766"
+        },
+        {
+            "latitude": "35.151100158691406",
+            "name": "Runsick Flying Service Airport",
+            "longitude": "-90.81559753417969"
+        },
+        {
+            "latitude": "43.6568464507",
+            "name": "Toronto (Hospital For Sick Children) Heliport",
+            "longitude": "-79.3878802657"
+        }
+    ],
+    "requestType": "find"
+}

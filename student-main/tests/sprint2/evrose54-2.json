@@ -1,0 +1,53 @@
+{
+    "match": "Flamingo",
+    "limit": 0,
+    "found": 4,
+    "places": [
+        {
+            "altitude": "1160",
+            "country": "US",
+            "latitude": "33.099300384521484",
+            "name": "Flamingo Airfield",
+            "municipality": "Jacksboro",
+            "id": "TA59",
+            "type": "small_airport",
+            "region": "US-TX",
+            "longitude": "-98.28949737548828"
+        },
+        {
+            "altitude": "270",
+            "country": "CR",
+            "latitude": "10.418600082397461",
+            "name": "Flamingo Airport",
+            "municipality": "Brasilito",
+            "id": "MRFL",
+            "type": "small_airport",
+            "region": "CR-G",
+            "longitude": "-85.78269958496094"
+        },
+        {
+            "altitude": "20",
+            "country": "BQ",
+            "latitude": "12.130999565124512",
+            "name": "Flamingo International Airport",
+            "municipality": "Kralendijk",
+            "id": "TNCB",
+            "type": "medium_airport",
+            "region": "BQ-U-A",
+            "url": "http://en.wikipedia.org/wiki/Flamingo_International_Airport",
+            "longitude": "-68.26850128173828"
+        },
+        {
+            "altitude": "3248",
+            "country": "ZA",
+            "latitude": "-30.490999221801758",
+            "name": "Flamingo Vlei Airport",
+            "municipality": "Flamingo Vlei",
+            "id": "FAFG",
+            "type": "small_airport",
+            "region": "ZA-NC",
+            "longitude": "21.121700286865234"
+        }
+    ],
+    "requestType": "find"
+}

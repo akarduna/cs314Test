@@ -1,0 +1,26 @@
+{
+    "earthRadius": 6371.0,
+    "places": [
+        {
+            "latitude": "-19.002846",
+            "name": "Madagascar",
+            "longitude": "46.460938"
+        },
+        {
+            "latitude": "64.135666",
+            "name": "Iceland",
+            "longitude": "-21.862675"
+        },
+        {
+            "latitude": "10.31672",
+            "name": "Philippines",
+            "longitude": "123.89071"
+        }
+    ],
+    "distances": [
+        10906,
+        11248,
+        9086
+    ],
+    "requestType": "distances"
+}

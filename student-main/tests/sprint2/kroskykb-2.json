@@ -1,0 +1,83 @@
+{
+    "match": "Savannah",
+    "limit": 0,
+    "found": 15,
+    "places": [
+        {
+            "latitude": "-0.7165",
+            "name": "Savannah Airstrip",
+            "longitude": "29.6997"
+        },
+        {
+            "latitude": "31.984399795532227",
+            "name": "Hodges Airpark",
+            "longitude": "-81.24620056152344"
+        },
+        {
+            "latitude": "31.984899520874023",
+            "name": "St Joseph's Hospital Heliport",
+            "longitude": "-81.15570068359375"
+        },
+        {
+            "latitude": "32.00999832",
+            "name": "Hunter Army Air Field",
+            "longitude": "-81.14569855"
+        },
+        {
+            "latitude": "32.02109909057617",
+            "name": "Memorial Hospital Heliport",
+            "longitude": "-81.0802993774414"
+        },
+        {
+            "latitude": "32.08190155029297",
+            "name": "Hyatt Regency Hotel Heliport",
+            "longitude": "-81.09210205078125"
+        },
+        {
+            "latitude": "32.12760162",
+            "name": "Savannah Hilton Head International Airport",
+            "longitude": "-81.20210266"
+        },
+        {
+            "latitude": "32.157501220703125",
+            "name": "Cypress Lakes Airport",
+            "longitude": "-81.39669799804688"
+        },
+        {
+            "latitude": "33.283599853515625",
+            "name": "Savannah River Site (Department of Energy) Heliport",
+            "longitude": "-81.72640228271484"
+        },
+        {
+            "latitude": "35.15919876098633",
+            "name": "Tgp Station 856 Heliport",
+            "longitude": "-88.22239685058594"
+        },
+        {
+            "latitude": "35.1703987121582",
+            "name": "Savannah Hardin County Airport",
+            "longitude": "-88.21589660644531"
+        },
+        {
+            "latitude": "35.218101501464844",
+            "name": "Hardin County General Hospital Heliport",
+            "longitude": "-88.21920013427734"
+        },
+        {
+            "latitude": "39.97919845581055",
+            "name": "Worth Airport",
+            "longitude": "-94.8739013671875"
+        },
+        {
+            "latitude": "40.96120071411133",
+            "name": "Vogel Airpark",
+            "longitude": "-82.37069702148438"
+        },
+        {
+            "latitude": "43.018798828125",
+            "name": "Savannah Agri-Air Airport",
+            "longitude": "-76.76100158691406"
+        }
+    ],
+    "requestType": "find"
+}

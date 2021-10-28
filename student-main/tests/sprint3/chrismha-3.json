@@ -1,0 +1,26 @@
+{
+    "earthRadius": 9999999999999999999999999.0,
+    "places": [
+        {
+            "name": "place°°°°°’”",
+            "latitude": "0.1",
+            "longitude": "0"
+        },
+        {
+            "name": "place2",
+            "latitude": "1",
+            "longitude": "1"
+        },
+        {
+            "name": "place2",
+            "latitude": "3",
+            "longitude": "3"
+        }
+    ],
+    "distances": [
+        234802724812966899514688,
+        493490740894090285095785,
+        728065706307859245027814
+    ],
+    "requestType": "distances"
+}
