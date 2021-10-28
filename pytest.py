@@ -11,7 +11,7 @@ def check_file(f):
     except:
         print("Failed to load file")
         return
-    s = set()
+    s = []
     for i in range(1, 28):
         if i == 8:
             continue
@@ -24,19 +24,23 @@ def check_file(f):
             if (j):
                 dist = [str(int) for int in j["distances"]]
                 t = len(s)
-                s.add(",".join(dist))
-                if(len(s) != t):
-                    print(str(i).zfill(2) + ": " + ",".join(dist))
+                s.append(",".join(dist))
+                #if(len(s) != t):
+                    #print(str(i).zfill(2) + ": " + ",".join(dist))
         except BaseException as err:
             print(str(i) + ": " + str(err))
     return(s)
+def check_folder(path):
+    teams =  {i : [] for i in range(1, 28)}
+    for filename in os.listdir(path):
+        fi = open(path + filename)
+        if (fi):
+            val = check_file(fi)
+            if(val == None):
+                continue
+            for i in range(len(val)):
+                teams[i+1] += [val[i]]
+    return teams
 path = os.getcwd()+"/student-main/tests/sprint3/"
-for filename in os.listdir(os.getcwd()+"/student-main/tests/sprint3/"):
-    break;
-    fi = open(path + filename)
-    if(fi):
-        val = check_file(fi)
-        if(val != 1 and val != None):
-            print(filename + ": " + str(val))
-fi = open(path + "bilprice-4.json")
-print(check_file(fi))
+t = check_folder(path)
+
