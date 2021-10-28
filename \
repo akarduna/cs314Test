@@ -2,7 +2,6 @@ import requests
 import json
 import urllib3
 import os
-import csv
 
 urllib3.disable_warnings()
 def check_file(f):
@@ -24,7 +23,8 @@ def check_file(f):
             j = x.json()
             if (j):
                 dist = [str(int) for int in j["distances"]]
-                s.append(dist)
+                t = len(s)
+                s.append(",".join(dist))
                 #if(len(s) != t):
                     #print(str(i).zfill(2) + ": " + ",".join(dist))
         except BaseException as err:
@@ -39,11 +39,8 @@ def check_folder(path):
             if(val == None):
                 continue
             for i in range(len(val)):
-                teams[i+1] += val[i]
+                teams[i+1] += [val[i]]
     return teams
 path = os.getcwd()+"/student-main/tests/sprint3/"
 t = check_folder(path)
-w = csv.writer(open("output.csv", "w"))
-for key, val in t.items():
-    w.writerow([key,val])
-
+print(t[27])
