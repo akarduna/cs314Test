@@ -6,7 +6,7 @@ import csv
 
 urllib3.disable_warnings()
 def check_file(f):
-    url = "localhost:"
+    url = "HTTPS://localhost:"
     try:
         data = json.load(f)
     except:
@@ -30,3 +30,7 @@ def check_file(f):
         except BaseException as err:
             print(str(i) + ": " + str(err))
     return(s)
+path = os.getcwd()+"/student-main/tests/sprint3/"
+fi = open(path + "bginna-3.json")
+val = check_file(fi)
+print(val)
