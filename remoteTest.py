@@ -30,7 +30,19 @@ def check_file(f):
         except BaseException as err:
             print(str(i) + ": " + str(err))
     return(s)
+def check_folder(path):
+    teams =  {i : [] for i in range(1, 28)}
+    for filename in os.listdir(path):
+        fi = open(path + filename)
+        if (fi):
+            val = check_file(fi)
+            if(val == None):
+                continue
+            for i in range(len(val)):
+                teams[i+1] += val[i]
+    return teams
 path = os.getcwd()+"/student-main/tests/sprint3/"
-fi = open(path + "bginna-3.json")
-val = check_file(fi)
-print(val)
+t = check_folder(path)
+w = csv.writer(open("output.csv", "w"))
+for key, val in t.items():
+    w.writerow([key,val])
